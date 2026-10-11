@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kino-ics//Kinoevent Rapperswil//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kino Rapperswil - The Ones we Love
+X-WR-CALDESC:Nur die Filmreihe The Ones we Love (Kinoevent Rapperswil)
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:75c8b253e58642268e6a30dce22e9532ecb511af@kino-ics
+DTSTAMP:20261011T174043Z
+DTSTART:20261014T181500Z
+DTEND:20261014T203800Z
+SUMMARY:Pirates of the Caribbean: The Curse of the Black Pearl [The Ones we
+  Love]
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:⭐ Besonderheit: Teil der Filmreihe «The Ones we Love»\nOrt:
+  Kinobar Leuzinger\nSprache/Version: Englisch gesprochen - deutsche Untert
+ itel\n143 Min.\n\nRapperswil PIRATES OF THE CARIBBEAN: THE CURSE OF THE BL
+ ACK PEARL! Aus der THE ONES WE LOVE CLASSIC-Filmreihe zeigen wir PIRATES O
+ F THE CARIBBEAN: THE CURSE OF THE BLACK PEARL von Gore Verbinski aus dem J
+ ahr 2003. Ein Blitz schlägt ein - und zwar in Form von Jack Sparrow. Was 
+ hätte ein lauwarmer Abenteuerfilm über einen Piratenfluch sein können\,
+  wird dank Johnny Depps exzentrischer Performance zur popkulturellen Sensa
+ tion. Der Score von Hans Zimmers Kompagnon Klaus Badelt wird in der Folge 
+ zur musikalischen DNA jedes Schulorchesters. Disney rechnete nicht mit ein
+ em Klassiker - bekam aber einen. Oscar-Nominierung für Depp inklusive\, u
+ nd das völlig zu Recht. Jetzt Tickets sichern!\n\nTickets: https://iframe
+ .ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatin
+ gplan&language=de&FilmID=01320000012ACVDDAK&performance=5EA70000023ACVDDAK
+ \nFilminfo: https://www.kinoevent.ch/detail/130859/Pirates%20of%20the%20Ca
+ ribbean%3A%20The%20Curse%20of%20the%20Black%20Pearl
+URL:https://www.kinoevent.ch/detail/130859/Pirates%20of%20the%20Caribbean%3
+ A%20The%20Curse%20of%20the%20Black%20Pearl
+CATEGORIES:The Ones we Love
+END:VEVENT
+BEGIN:VEVENT
+UID:f63c798e9417e514e854a27bdb79d663251e515c@kino-ics
+DTSTAMP:20261011T174043Z
+DTSTART:20261111T191500Z
+DTEND:20261111T214200Z
+SUMMARY:Midsommar [The Ones we Love]
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:⭐ Besonderheit: Teil der Filmreihe «The Ones we Love»\nOrt:
+  Kinobar Leuzinger\nSprache/Version: Englisch gesprochen - deutsche Untert
+ itel\nFSK 16 · 147 Min.\nFlorence Pugh\, Jack Reynor\, Will Poulter\, Reg
+ ie: Ari Aster\n\nDani reist zur Zeit der langen Sommernächte mit ihrem Fr
+ eund nach Schweden\, um den Tod ihrer Eltern zu verarbeiten. Langsam schli
+ eßt die junge Frau Bekanntschaften in dem Dorf\, wo sie untergekommen ist
+ .\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=70
+ 000000014ACVDDAK&page=seatingplan&language=de&FilmID=02320000012ACVDDAK&pe
+ rformance=DAB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/77
+ 101/Midsommar
+URL:https://www.kinoevent.ch/detail/77101/Midsommar
+CATEGORIES:The Ones we Love
+END:VEVENT
+END:VCALENDAR
