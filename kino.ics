@@ -1,0 +1,959 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kino-ics//Kinoevent Rapperswil//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kino Rapperswil
+X-WR-CALDESC:Programm Schlosskino und Kinobar Leuzinger (Kinoevent Rappersw
+ il)
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:f82b4317d681af06d57582a01dee26bf2c3b79d0@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T090000Z
+DTEND:20261011T104200Z
+SUMMARY:Immer weiter
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Sonntags-Matinées\nOrt: Kinobar Leuzinger\nSprache/
+ Version: Dialekt gesprochen\nFSK 8 · 102 Min.\n\nDie Geschichte einer Rei
+ se\, die alles andere als planmässig verlief: Ein junges Paar reist im La
+ nd Rover Defender über drei Kontinente\, oft fernab jeglicher Zivilisatio
+ n\, dann wieder mitten im Leben fremder Kulturen. Unzählige Autopannen\, 
+ ein schwerer Unfall\, eine ungeplante Schwangerschaft und ein Aufenthalt i
+ n einem afrikanischen Gefängnis prägen die Reise\n\nTickets: https://ifr
+ ame.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=sea
+ tingplan&language=de&FilmID=41320000012ACVDDAK&performance=78B70000023ACVD
+ DAK\nFilminfo: https://www.kinoevent.ch/detail/131070/Immer%20weiter
+URL:https://www.kinoevent.ch/detail/131070/Immer%20weiter
+END:VEVENT
+BEGIN:VEVENT
+UID:fd85fcbe8bb718da25f7a4dfe312b2ab1ee43c82@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T113000Z
+DTEND:20261011T124900Z
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 · 79 Min.\nJustin Fletcher\, John Sparkes und Kate Harbour in einem F
+ ilm von Steve Cox\, Matthew Walker\n\nShauns Halloween-Pläne geraten durc
+ heinander\, als der Farmer das Kürbisbeet zerstört. Seine Rettungsversuc
+ he lösen Chaos aus: Der Farmer verschwindet\, ein haariges Wesen taucht a
+ uf.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=
+ 70000000014ACVDDAK&page=seatingplan&language=de&FilmID=91320000012ACVDDAK&
+ performance=88B70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/
+ 125190/Shaun%20das%20Schaf%20-%20Spuk%20im%20K%C3%BCrbisfeld
+URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
+ 0im%20K%C3%BCrbisfeld
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd17679e47984ab20e44217a879742d0cc3e528@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T114500Z
+DTEND:20261011T130800Z
+SUMMARY:PAW Patrol: Der Dino Film
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 0 ·
+  83 Min.\nCarter Young\, Mckenna Grace und Terry Crews in einem Film von C
+ al Brunker\n\nDie Paw Patrol strandet auf einer Dinosaurier-Insel. Als Bü
+ rgermeister Humdinger rücksichtslos Ressourcen abbaut\, droht ein Vulkana
+ usbruch. Die Welpen müssen ihre bisher größte Rettungsmission meistern.
+ \n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=800
+ 00000014ACVDDAK&page=seatingplan&language=de&FilmID=CF220000012ACVDDAK&per
+ formance=F9B70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/120
+ 318/PAW%20Patrol%3A%20Der%20Dino%20Film
+URL:https://www.kinoevent.ch/detail/120318/PAW%20Patrol%3A%20Der%20Dino%20F
+ ilm
+END:VEVENT
+BEGIN:VEVENT
+UID:a15f73b33995a83af717ae0564aeaca9299d3e09@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T133000Z
+DTEND:20261011T151900Z
+SUMMARY:Forgotten Island
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 (Bedrohung) · 109 Min.\nH.E.R.\, Liza Soberano und Dave Franco in ein
+ em Film von Joel Crawford\, Januel P. Mercado\n\nVor ihrem Neuanfang erleb
+ en Jo und Raissa eine magische Abschiedsnacht: Ein Portal führt sie auf d
+ ie Insel Nakali\, wo sie mythische Wesen und die Manananggal treffen – u
+ nd ihre Freundschaft auf die Probe stellen.\n\nTickets: https://iframe.tic
+ ketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingpla
+ n&language=de&FilmID=D0320000012ACVDDAK&performance=98B70000023ACVDDAK\nFi
+ lminfo: https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e48955a58c4150795b082a567c9f00594e8eab@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T134500Z
+DTEND:20261011T151500Z
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 ·
+  90 Min.\nNala\, Carmen Diego und Carla Demmin in einem Film von Gregor Sc
+ hnitzler\n\nBibis Museumspraktikum wird zum Abenteuer\, als eine wertvolle
+  Spieluhr verschwindet. Mit ihren Freunden reist sie in die Vergangenheit\
+ , wo sie Fritzi und Maxim begegnen und Ungerechtigkeit erleben.\n\nTickets
+ : https://iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACV
+ DDAK&page=seatingplan&language=de&FilmID=71320000012ACVDDAK&performance=0A
+ B70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/120454/Bibi%20
+ Blocksberg%20-%20Die%20total%20verhexte%20Zeitreise
+URL:https://www.kinoevent.ch/detail/120454/Bibi%20Blocksberg%20-%20Die%20to
+ tal%20verhexte%20Zeitreise
+END:VEVENT
+BEGIN:VEVENT
+UID:6d89f6b341ca198878504e2310c7b931ffefa316@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T154500Z
+DTEND:20261011T174200Z
+SUMMARY:Verity - Dunkle Geheimnisse
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 14 (Gewalt\, Sexualität\, belastende Themen) · 117 Min.\nAnne Hathaway
+ \, Dakota Johnson und Josh Hartnett in einem Film von Michael Showalter\n\
+ nLowen Ashleigh soll die Buchreihe der verunglückten Bestsellerautorin Ve
+ rity Crawford vollenden. Im Anwesen der Familie stößt sie auf verstören
+ de Aufzeichnungen\, die alles infrage stellen.\n\nTickets: https://iframe.
+ ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seating
+ plan&language=de&FilmID=C1320000012ACVDDAK&performance=A8B70000023ACVDDAK\
+ nFilminfo: https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Ge
+ heimnisse
+URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:d4330feaf0f32c985cf7ad8183a50156d29a2cd1@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T160000Z
+DTEND:20261011T180000Z
+SUMMARY:111 - Echoes from Halifax
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 10\n
+ \nAm 2. September 1998 verändert der Absturz des Swissair-Flugs 111 vor d
+ er Küste von Halifax das Leben vieler Menschen für immer. Doch 111 - Ech
+ oes from Halifax erzählt nicht die Katastrophe selbst - sondern ihre Nach
+ wirkungen. Der Film folgt Menschen in verschiedenen Ländern\, deren Schic
+ ksale durch das Unglück miteinander verbunden sind. Angehörige ringen um
+  Gewissheit über ihre Liebsten\, Helfende versuchen Trost zu spenden\, un
+ d die Bewohner der kanadischen Küste werden mit den Spuren der Tragödie 
+ konfrontiert. Während die Zeit vergeht und Fragen offen bleiben\, zeigt d
+ er Film\, wie Trauer verbindet\, Beziehungen verändert und neue Perspekti
+ ven entstehen lässt.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/l
+ andingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=B
+ 1320000012ACVDDAK&performance=1AB70000023ACVDDAK\nFilminfo: https://www.ki
+ noevent.ch/detail/130576/111%20-%20Echoes%20from%20Halifax
+URL:https://www.kinoevent.ch/detail/130576/111%20-%20Echoes%20from%20Halifa
+ x
+END:VEVENT
+BEGIN:VEVENT
+UID:9aff8e71f074d13f8324f364c3536bf318839e9d@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T181500Z
+DTEND:20261011T195600Z
+SUMMARY:Eiserne Wildnis - Heart Of The Beast
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 12 (Bedrohung\, Verletzung) · 101 Min.\nBrad Pitt\, Uber und J.K. Simmo
+ ns in einem Film von David Ayer\n\nNach einem Flugzeugabsturz strandet Ex-
+ Special-Forces-Offizier James Belmont mit Militärhund Odin in der Wildnis
+  Alaskas. Auf sich allein gestellt\, kämpfen sie gegen Kälte\, Hunger un
+ d die Gefahren der Natur.\n\nTickets: https://iframe.ticketshop.kinoevent.
+ ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&Film
+ ID=81320000012ACVDDAK&performance=B8B70000023ACVDDAK\nFilminfo: https://ww
+ w.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20Of%20The%20Bea
+ st
+URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
+ f%20The%20Beast
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce386b91ff37079d29dffa80a69c82de1bd4740@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261011T181500Z
+DTEND:20261011T195300Z
+SUMMARY:Spa Weekend
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 12 (
+ Sexualität\, Sprache) · 98 Min.\nLeslie Mann\, Isla Fisher und Michelle 
+ Buteau in einem Film von Jon Lucas\, Scott Moore\n\nVier langjährige Freu
+ ndinnen gönnen sich eine Auszeit in einem Luxusresort. Zwischen Wellness 
+ und Selbstfürsorge gerät der Trip außer Kontrolle\, denn im Alltag sind
+  sie längst auf der Strecke geblieben.\n\nTickets: https://iframe.tickets
+ hop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seatingplan&la
+ nguage=de&FilmID=F0320000012ACVDDAK&performance=2AB70000023ACVDDAK\nFilmin
+ fo: https://www.kinoevent.ch/detail/126997/Spa%20Weekend
+URL:https://www.kinoevent.ch/detail/126997/Spa%20Weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:46c29a9ed8a4ea80bfbb6d4d1e558e9105587b34@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261012T113000Z
+DTEND:20261012T124900Z
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 · 79 Min.\nJustin Fletcher\, John Sparkes und Kate Harbour in einem F
+ ilm von Steve Cox\, Matthew Walker\n\nShauns Halloween-Pläne geraten durc
+ heinander\, als der Farmer das Kürbisbeet zerstört. Seine Rettungsversuc
+ he lösen Chaos aus: Der Farmer verschwindet\, ein haariges Wesen taucht a
+ uf.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=
+ 70000000014ACVDDAK&page=seatingplan&language=de&FilmID=91320000012ACVDDAK&
+ performance=C8B70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/
+ 125190/Shaun%20das%20Schaf%20-%20Spuk%20im%20K%C3%BCrbisfeld
+URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
+ 0im%20K%C3%BCrbisfeld
+END:VEVENT
+BEGIN:VEVENT
+UID:6acb315ec11a2e675aa9b74d74707a1033f7dd61@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261012T131500Z
+DTEND:20261012T150400Z
+SUMMARY:Forgotten Island
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 (Bedrohung) · 109 Min.\nH.E.R.\, Liza Soberano und Dave Franco in ein
+ em Film von Joel Crawford\, Januel P. Mercado\n\nVor ihrem Neuanfang erleb
+ en Jo und Raissa eine magische Abschiedsnacht: Ein Portal führt sie auf d
+ ie Insel Nakali\, wo sie mythische Wesen und die Manananggal treffen – u
+ nd ihre Freundschaft auf die Probe stellen.\n\nTickets: https://iframe.tic
+ ketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingpla
+ n&language=de&FilmID=D0320000012ACVDDAK&performance=D8B70000023ACVDDAK\nFi
+ lminfo: https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+END:VEVENT
+BEGIN:VEVENT
+UID:10a244feef79bba634a856a15b984d3c42442e53@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261012T153000Z
+DTEND:20261012T175500Z
+SUMMARY:Spider-Man: Brand New Day
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 12 (Gewalt\, Bedrohung\, Verletzung) · 145 Min.\nTom Holland\, Zendaya 
+ und Sadie Sink in einem Film von Destin Daniel Cretton\n\nPeter Parker ist
+  wieder auf sich allein gestellt: Seine Identität als Spider-Man ist gehe
+ im\, Freunde und Unterstützung der Avengers sind weg. Als straßennaher S
+ uperheld kämpft er mit Geldsorgen und einer neuen Bedrohung.\n\nTickets: 
+ https://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDD
+ AK&page=seatingplan&language=de&FilmID=BF220000012ACVDDAK&performance=E8B7
+ 0000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/120317/Spider-Ma
+ n%3A%20Brand%20New%20Day
+URL:https://www.kinoevent.ch/detail/120317/Spider-Man%3A%20Brand%20New%20Da
+ y
+END:VEVENT
+BEGIN:VEVENT
+UID:7dd7e8c8410aec76b6b51447c00dae7f567d13c2@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261012T181500Z
+DTEND:20261012T201200Z
+SUMMARY:Verity - Dunkle Geheimnisse
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 14 (Gewalt\, Sexualität\, belastende Themen) · 117 Min.\nAnne Hathaway
+ \, Dakota Johnson und Josh Hartnett in einem Film von Michael Showalter\n\
+ nLowen Ashleigh soll die Buchreihe der verunglückten Bestsellerautorin Ve
+ rity Crawford vollenden. Im Anwesen der Familie stößt sie auf verstören
+ de Aufzeichnungen\, die alles infrage stellen.\n\nTickets: https://iframe.
+ ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seating
+ plan&language=de&FilmID=C1320000012ACVDDAK&performance=F8B70000023ACVDDAK\
+ nFilminfo: https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Ge
+ heimnisse
+URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed8edc2cf5b446f566f1bed714e6af4bc6526b9@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261012T181500Z
+DTEND:20261012T195700Z
+SUMMARY:Ingeborg Bachmann - Jemand\, der einmal ich war
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Deutsch gesprochen\nFSK 6 · 102 Min.\nSandra Hüller und Ingeborg 
+ Bachmann in einem Film von Regina Schilling\n\nSandra Hüller verkörpert 
+ Ingeborg Bachmann in einem Dokudrama\, das einen Tag im Leben der Schrifts
+ tellerin nachzeichnet. Improvisierte Szenen\, Archivmaterial und Interview
+ s beleuchten ihre Kindheit\, die Gruppe 47 und…\n\nTickets: https://ifra
+ me.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seat
+ ingplan&language=de&FilmID=D1320000012ACVDDAK&performance=3AB70000023ACVDD
+ AK\nFilminfo: https://www.kinoevent.ch/detail/127759/Ingeborg%20Bachmann%2
+ 0-%20Jemand%2C%20der%20einmal%20ich%20war
+URL:https://www.kinoevent.ch/detail/127759/Ingeborg%20Bachmann%20-%20Jemand
+ %2C%20der%20einmal%20ich%20war
+END:VEVENT
+BEGIN:VEVENT
+UID:318b8a45ad2d1e40d8f4edab0499378a0eceddab@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261013T113000Z
+DTEND:20261013T124900Z
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 · 79 Min.\nJustin Fletcher\, John Sparkes und Kate Harbour in einem F
+ ilm von Steve Cox\, Matthew Walker\n\nShauns Halloween-Pläne geraten durc
+ heinander\, als der Farmer das Kürbisbeet zerstört. Seine Rettungsversuc
+ he lösen Chaos aus: Der Farmer verschwindet\, ein haariges Wesen taucht a
+ uf.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=
+ 70000000014ACVDDAK&page=seatingplan&language=de&FilmID=91320000012ACVDDAK&
+ performance=79B70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/
+ 125190/Shaun%20das%20Schaf%20-%20Spuk%20im%20K%C3%BCrbisfeld
+URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
+ 0im%20K%C3%BCrbisfeld
+END:VEVENT
+BEGIN:VEVENT
+UID:0c24d9d7fcd9c3cf1c0784e24289c011ab8943d6@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261013T131500Z
+DTEND:20261013T150400Z
+SUMMARY:Forgotten Island
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 (Bedrohung) · 109 Min.\nH.E.R.\, Liza Soberano und Dave Franco in ein
+ em Film von Joel Crawford\, Januel P. Mercado\n\nVor ihrem Neuanfang erleb
+ en Jo und Raissa eine magische Abschiedsnacht: Ein Portal führt sie auf d
+ ie Insel Nakali\, wo sie mythische Wesen und die Manananggal treffen – u
+ nd ihre Freundschaft auf die Probe stellen.\n\nTickets: https://iframe.tic
+ ketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingpla
+ n&language=de&FilmID=D0320000012ACVDDAK&performance=89B70000023ACVDDAK\nFi
+ lminfo: https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+END:VEVENT
+BEGIN:VEVENT
+UID:28747f3ca0f0d75a9e92dcef17a66b077a107ff8@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261013T153000Z
+DTEND:20261013T175500Z
+SUMMARY:Spider-Man: Brand New Day
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 12 (Gewalt\, Bedrohung\, Verletzung) · 145 Min.\nTom Holland\, Zendaya 
+ und Sadie Sink in einem Film von Destin Daniel Cretton\n\nPeter Parker ist
+  wieder auf sich allein gestellt: Seine Identität als Spider-Man ist gehe
+ im\, Freunde und Unterstützung der Avengers sind weg. Als straßennaher S
+ uperheld kämpft er mit Geldsorgen und einer neuen Bedrohung.\n\nTickets: 
+ https://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDD
+ AK&page=seatingplan&language=de&FilmID=BF220000012ACVDDAK&performance=19B7
+ 0000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/120317/Spider-Ma
+ n%3A%20Brand%20New%20Day
+URL:https://www.kinoevent.ch/detail/120317/Spider-Man%3A%20Brand%20New%20Da
+ y
+END:VEVENT
+BEGIN:VEVENT
+UID:09d9fde9c34552bc5a5792c680f6bb437c8effd5@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261013T181500Z
+DTEND:20261013T201200Z
+SUMMARY:Verity
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Englisch gesprochen - 
+ deutsche und franz. Untertitel\nFSK 12 (Gewalt\, Sexualität\, belastende 
+ Themen) · 117 Min.\nAnne Hathaway\, Dakota Johnson und Josh Hartnett in e
+ inem Film von Michael Showalter\n\nYoung author Lowen Ashleigh receives an
+  unusual offer from Jeremy Crawford: she is to complete the successful boo
+ k series of his wife Verity Crawford.\n\nTickets: https://iframe.ticketsho
+ p.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&lang
+ uage=de&FilmID=C1320000012ACVDDAK&performance=29B70000023ACVDDAK\nFilminfo
+ : https://www.kinoevent.ch/detail/126253/Verity
+URL:https://www.kinoevent.ch/detail/126253/Verity
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a24854808427a3f9b3ba6e5e58c05eff604ef0@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261013T181500Z
+DTEND:20261013T195700Z
+SUMMARY:Ingeborg Bachmann - Jemand\, der einmal ich war
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Deutsch gesprochen\nFSK 6 · 102 Min.\nSandra Hüller und Ingeborg 
+ Bachmann in einem Film von Regina Schilling\n\nSandra Hüller verkörpert 
+ Ingeborg Bachmann in einem Dokudrama\, das einen Tag im Leben der Schrifts
+ tellerin nachzeichnet. Improvisierte Szenen\, Archivmaterial und Interview
+ s beleuchten ihre Kindheit\, die Gruppe 47 und…\n\nTickets: https://ifra
+ me.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seat
+ ingplan&language=de&FilmID=D1320000012ACVDDAK&performance=4AB70000023ACVDD
+ AK\nFilminfo: https://www.kinoevent.ch/detail/127759/Ingeborg%20Bachmann%2
+ 0-%20Jemand%2C%20der%20einmal%20ich%20war
+URL:https://www.kinoevent.ch/detail/127759/Ingeborg%20Bachmann%20-%20Jemand
+ %2C%20der%20einmal%20ich%20war
+END:VEVENT
+BEGIN:VEVENT
+UID:56b8c077a491b17a85978f7fdd759f5235fd9edd@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T114500Z
+DTEND:20261014T130400Z
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 · 79 Min.\nJustin Fletcher\, John Sparkes und Kate Harbour in einem F
+ ilm von Steve Cox\, Matthew Walker\n\nShauns Halloween-Pläne geraten durc
+ heinander\, als der Farmer das Kürbisbeet zerstört. Seine Rettungsversuc
+ he lösen Chaos aus: Der Farmer verschwindet\, ein haariges Wesen taucht a
+ uf.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=
+ 70000000014ACVDDAK&page=seatingplan&language=de&FilmID=91320000012ACVDDAK&
+ performance=39B70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/
+ 125190/Shaun%20das%20Schaf%20-%20Spuk%20im%20K%C3%BCrbisfeld
+URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
+ 0im%20K%C3%BCrbisfeld
+END:VEVENT
+BEGIN:VEVENT
+UID:0018a1b2786bec4c67d0729615a56db733c379b8@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T114500Z
+DTEND:20261014T131500Z
+SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 ·
+  90 Min.\nNala\, Carmen Diego und Carla Demmin in einem Film von Gregor Sc
+ hnitzler\n\nBibis Museumspraktikum wird zum Abenteuer\, als eine wertvolle
+  Spieluhr verschwindet. Mit ihren Freunden reist sie in die Vergangenheit\
+ , wo sie Fritzi und Maxim begegnen und Ungerechtigkeit erleben.\n\nTickets
+ : https://iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACV
+ DDAK&page=seatingplan&language=de&FilmID=71320000012ACVDDAK&performance=5A
+ B70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/120454/Bibi%20
+ Blocksberg%20-%20Die%20total%20verhexte%20Zeitreise
+URL:https://www.kinoevent.ch/detail/120454/Bibi%20Blocksberg%20-%20Die%20to
+ tal%20verhexte%20Zeitreise
+END:VEVENT
+BEGIN:VEVENT
+UID:c5eb7418f8d2defe02061e6adf29f0412e675eca@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T134500Z
+DTEND:20261014T153400Z
+SUMMARY:Forgotten Island
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 6 (Bedrohung) · 109 Min.\nH.E.R.\, Liza Soberano und Dave Franco in ein
+ em Film von Joel Crawford\, Januel P. Mercado\n\nVor ihrem Neuanfang erleb
+ en Jo und Raissa eine magische Abschiedsnacht: Ein Portal führt sie auf d
+ ie Insel Nakali\, wo sie mythische Wesen und die Manananggal treffen – u
+ nd ihre Freundschaft auf die Probe stellen.\n\nTickets: https://iframe.tic
+ ketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingpla
+ n&language=de&FilmID=D0320000012ACVDDAK&performance=49B70000023ACVDDAK\nFi
+ lminfo: https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
+END:VEVENT
+BEGIN:VEVENT
+UID:61319a7462d0711c6769eba4b3e45afa4639648f@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T134500Z
+DTEND:20261014T153400Z
+SUMMARY:David
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 (B
+ edrohung) · 109 Min.\nBrandon Engman\, Brian Stivale und Shahar Taboch in
+  einem Film von Brent Dawes\, Phil Cunningham\n\nDer junge Hirte David ent
+ deckt sein Gesangstalent\, muss im Kampf gegen den Riesen Goliath bestehen
+  und der Verfolgung durch König Saul entkommen\, bevor er selbst den Thro
+ n Israels besteigen kann.\n\nTickets: https://iframe.ticketshop.kinoevent.
+ ch/landingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&Film
+ ID=C0320000012ACVDDAK&performance=6AB70000023ACVDDAK\nFilminfo: https://ww
+ w.kinoevent.ch/detail/125004/David
+URL:https://www.kinoevent.ch/detail/125004/David
+END:VEVENT
+BEGIN:VEVENT
+UID:2b92c8a4e8b365d836fd77f409eee432df20279c@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T160000Z
+DTEND:20261014T174100Z
+SUMMARY:Eiserne Wildnis - Heart Of The Beast
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
+ K 12 (Bedrohung\, Verletzung) · 101 Min.\nBrad Pitt\, Uber und J.K. Simmo
+ ns in einem Film von David Ayer\n\nNach einem Flugzeugabsturz strandet Ex-
+ Special-Forces-Offizier James Belmont mit Militärhund Odin in der Wildnis
+  Alaskas. Auf sich allein gestellt\, kämpfen sie gegen Kälte\, Hunger un
+ d die Gefahren der Natur.\n\nTickets: https://iframe.ticketshop.kinoevent.
+ ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&Film
+ ID=81320000012ACVDDAK&performance=59B70000023ACVDDAK\nFilminfo: https://ww
+ w.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20Of%20The%20Bea
+ st
+URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
+ f%20The%20Beast
+END:VEVENT
+BEGIN:VEVENT
+UID:8b63a986450355e5e9c42f4526953d35638ed4b5@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T160000Z
+DTEND:20261014T174000Z
+SUMMARY:Pressure
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Englisch gesprochen - deutsche und franz. Untertitel\nFSK 12 (Bedro
+ hung\, Verletzung\, belastende Themen) · 100 Min.\nAndrew Scott\, Brendan
+  Fraser und Kerry Condon in einem Film von Anthony Maras\n\nIn the critica
+ l 72 hours before D-Day\, all preparations for the Allied invasion are com
+ plete save for one unpredictable element: the British weather.\n\nTickets:
+  https://iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVD
+ DAK&page=seatingplan&language=de&FilmID=61320000012ACVDDAK&performance=7AB
+ 70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/127777/Pressure
+URL:https://www.kinoevent.ch/detail/127777/Pressure
+END:VEVENT
+BEGIN:VEVENT
+UID:75c8b253e58642268e6a30dce22e9532ecb511af@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T181500Z
+DTEND:20261014T203800Z
+SUMMARY:Pirates of the Caribbean: The Curse of the Black Pearl [The Ones we
+  Love]
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:⭐ Besonderheit: Teil der Filmreihe «The Ones we Love»\nOrt:
+  Kinobar Leuzinger\nSprache/Version: Englisch gesprochen - deutsche Untert
+ itel\n143 Min.\n\nRapperswil PIRATES OF THE CARIBBEAN: THE CURSE OF THE BL
+ ACK PEARL! Aus der THE ONES WE LOVE CLASSIC-Filmreihe zeigen wir PIRATES O
+ F THE CARIBBEAN: THE CURSE OF THE BLACK PEARL von Gore Verbinski aus dem J
+ ahr 2003. Ein Blitz schlägt ein - und zwar in Form von Jack Sparrow. Was 
+ hätte ein lauwarmer Abenteuerfilm über einen Piratenfluch sein können\,
+  wird dank Johnny Depps exzentrischer Performance zur popkulturellen Sensa
+ tion. Der Score von Hans Zimmers Kompagnon Klaus Badelt wird in der Folge 
+ zur musikalischen DNA jedes Schulorchesters. Disney rechnete nicht mit ein
+ em Klassiker - bekam aber einen. Oscar-Nominierung für Depp inklusive\, u
+ nd das völlig zu Recht. Jetzt Tickets sichern!\n\nTickets: https://iframe
+ .ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatin
+ gplan&language=de&FilmID=01320000012ACVDDAK&performance=5EA70000023ACVDDAK
+ \nFilminfo: https://www.kinoevent.ch/detail/130859/Pirates%20of%20the%20Ca
+ ribbean%3A%20The%20Curse%20of%20the%20Black%20Pearl
+URL:https://www.kinoevent.ch/detail/130859/Pirates%20of%20the%20Caribbean%3
+ A%20The%20Curse%20of%20the%20Black%20Pearl
+CATEGORIES:The Ones we Love
+END:VEVENT
+BEGIN:VEVENT
+UID:5e31d0debebcc4e97df8919a03dacaa02c152aeb@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261014T181500Z
+DTEND:20261014T201500Z
+SUMMARY:111 - Echoes from Halifax
+LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 10\n
+ \nAm 2. September 1998 verändert der Absturz des Swissair-Flugs 111 vor d
+ er Küste von Halifax das Leben vieler Menschen für immer. Doch 111 - Ech
+ oes from Halifax erzählt nicht die Katastrophe selbst - sondern ihre Nach
+ wirkungen. Der Film folgt Menschen in verschiedenen Ländern\, deren Schic
+ ksale durch das Unglück miteinander verbunden sind. Angehörige ringen um
+  Gewissheit über ihre Liebsten\, Helfende versuchen Trost zu spenden\, un
+ d die Bewohner der kanadischen Küste werden mit den Spuren der Tragödie 
+ konfrontiert. Während die Zeit vergeht und Fragen offen bleiben\, zeigt d
+ er Film\, wie Trauer verbindet\, Beziehungen verändert und neue Perspekti
+ ven entstehen lässt.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/l
+ andingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=B
+ 1320000012ACVDDAK&performance=8AB70000023ACVDDAK\nFilminfo: https://www.ki
+ noevent.ch/detail/130576/111%20-%20Echoes%20from%20Halifax
+URL:https://www.kinoevent.ch/detail/130576/111%20-%20Echoes%20from%20Halifa
+ x
+END:VEVENT
+BEGIN:VEVENT
+UID:19009f7a879e9400a394d725c57ea89d90790be2@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261027T190000Z
+DTEND:20261027T221000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Manon
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion/deutsche Untertitel\nDi 27. Oktober: L
+ IVE\nMo 23. November: Wiederholung\nFSK 10 · 190 Min.\nEin Film von Kenne
+ th MacMillan\n\nIm Paris des 18. Jahrhunderts zählt nur Geld. Manon liebt
+  den treuen Studenten Des Grieux und sieht in ihm die Chance auf ein ehrba
+ res Leben - doch der Luxus der reichen Gesellschaft lockt sie weiter.\n\nT
+ ickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000
+ 014ACVDDAK&page=seatingplan&language=de&FilmID=FF220000012ACVDDAK&performa
+ nce=A8A70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/90381/RB
+ O%20Live%202026-27%3A%20The%20Royal%20Ballet%20Manon
+URL:https://www.kinoevent.ch/detail/90381/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Ballet%20Manon
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8c75d47e26721ee2b7d66fb5fb7ab75f7d9515@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261028T184500Z
+DTEND:20261028T204100Z
+SUMMARY:Der Perfekte Urlaub
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Frauenkino\nOrt: Kinobar Leuzinger\nSprache/Version:
+  Deutsch gesprochen\nFSK 12 (Drogenkonsum\, Sexualität\, Sprache) · 116 
+ Min.\nElyas M´Barek\, Karoline Herfurth und Florian David Fitz in einem F
+ ilm von Bora Dagtekin\n\nLeo\, Pepe\, Rocco und Simon suchen auf Mallorca 
+ Ruhe nach ihrem Zerwürfnis\, doch Eva\, Carlotta und Maus wohnen in derse
+ lben Villa. Nach einem Brand im Clubhotel brechen alte Konflikte und neue 
+ Geheimnisse auf.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landin
+ gpage?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=F13200
+ 00012ACVDDAK&performance=CAB70000023ACVDDAK\nFilminfo: https://www.kinoeve
+ nt.ch/detail/125202/Der%20Perfekte%20Urlaub
+URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
+END:VEVENT
+BEGIN:VEVENT
+UID:0645a21dbd27dd5f9b423098f5faee6ae955eed6@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261104T191500Z
+DTEND:20261104T210900Z
+SUMMARY:Rammstein: Live in Mexico City
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Originalversion/deutsc
+ he Untertitel\nFSK 12 · 114 Min.\nRammstein in einem Film von Paul Dugdal
+ e\n\nDie deutsche Industrial-Metal-Band Rammstein begeistert rund 65.000 F
+ ans im Foro So in Mexiko-Stadt. Die Anhänger singen\, schreien und spring
+ en begeistert mit – jeder Ton sitzt perfekt.\n\nTickets: https://iframe.
+ ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seating
+ plan&language=de&FilmID=E1320000012ACVDDAK&performance=87B70000023ACVDDAK\
+ nFilminfo: https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in
+ %20Mexico%20City
+URL:https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in%20Mexic
+ o%20City
+END:VEVENT
+BEGIN:VEVENT
+UID:d0ce0561890c80071795d92e86aad1715241a773@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261107T170000Z
+DTEND:20261107T185400Z
+SUMMARY:Rammstein: Live in Mexico City
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Originalversion/deutsc
+ he Untertitel\nFSK 12 · 114 Min.\nRammstein in einem Film von Paul Dugdal
+ e\n\nDie deutsche Industrial-Metal-Band Rammstein begeistert rund 65.000 F
+ ans im Foro So in Mexiko-Stadt. Die Anhänger singen\, schreien und spring
+ en begeistert mit – jeder Ton sitzt perfekt.\n\nTickets: https://iframe.
+ ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seating
+ plan&language=de&FilmID=E1320000012ACVDDAK&performance=97B70000023ACVDDAK\
+ nFilminfo: https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in
+ %20Mexico%20City
+URL:https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in%20Mexic
+ o%20City
+END:VEVENT
+BEGIN:VEVENT
+UID:22006ee3945987032effe53588cd89dd97a71e84@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261110T190000Z
+DTEND:20261110T223500Z
+SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 10. November
+ : LIVE\nDi 8. Dezember: Wiederholung\nFSK 10 · 215 Min.\nGinger Costa-Jac
+ kson und Ramona Zaharia in einem Film von Damiano Michieletto\n\nUnter Spa
+ niens sengender Sonne verfällt Don Jose der stolzen Carmen\, obwohl sie i
+ hn warnt. Bizets Oper erzählt von Leidenschaft\, Gewalt und zerstörerisc
+ hem Verlangen.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingp
+ age?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=00320000
+ 012ACVDDAK&performance=C8A70000023ACVDDAK\nFilminfo: https://www.kinoevent
+ .ch/detail/32722/RBO%20Live%202026-27%3A%20The%20Royal%20Opera%20Carmen
+URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Opera%20Carmen
+END:VEVENT
+BEGIN:VEVENT
+UID:f63c798e9417e514e854a27bdb79d663251e515c@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261111T191500Z
+DTEND:20261111T214200Z
+SUMMARY:Midsommar [The Ones we Love]
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:⭐ Besonderheit: Teil der Filmreihe «The Ones we Love»\nOrt:
+  Kinobar Leuzinger\nSprache/Version: Englisch gesprochen - deutsche Untert
+ itel\nFSK 16 · 147 Min.\nFlorence Pugh\, Jack Reynor\, Will Poulter\, Reg
+ ie: Ari Aster\n\nDani reist zur Zeit der langen Sommernächte mit ihrem Fr
+ eund nach Schweden\, um den Tod ihrer Eltern zu verarbeiten. Langsam schli
+ eßt die junge Frau Bekanntschaften in dem Dorf\, wo sie untergekommen ist
+ .\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=70
+ 000000014ACVDDAK&page=seatingplan&language=de&FilmID=02320000012ACVDDAK&pe
+ rformance=DAB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/77
+ 101/Midsommar
+URL:https://www.kinoevent.ch/detail/77101/Midsommar
+CATEGORIES:The Ones we Love
+END:VEVENT
+BEGIN:VEVENT
+UID:086194ca1e4406868a60ac5862aa1514d72c23eb@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261117T180000Z
+DTEND:20261117T195000Z
+SUMMARY:Alte Liebe
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Stitches & Movie - Strickkino\nOrt: Kinobar Leuzinge
+ r\nFSK 6 (belastende Szenen\, Sprache) · 110 Min.\nDagmar Manzel\, Joachi
+ m Krol und Anna von Seld in einem Film von Andreas Dresen\n\nLore und Harr
+ y streiten seit fast 40 Jahren\, doch im Ruhestand wird es nicht ruhiger. 
+ Ihre Tochter Gloria will zum dritten Mal heiraten – diesmal mit einem Ma
+ nn\, der Harry wie ein Vater vorkommt.\n\nTickets: https://iframe.ticketsh
+ op.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&lan
+ guage=de&FilmID=12320000012ACVDDAK&performance=EAB70000023ACVDDAK\nFilminf
+ o: https://www.kinoevent.ch/detail/127787/Alte%20Liebe
+URL:https://www.kinoevent.ch/detail/127787/Alte%20Liebe
+END:VEVENT
+BEGIN:VEVENT
+UID:0dc5862bca32941b6b2210dc593a8f88807ca61f@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261123T133000Z
+DTEND:20261123T164000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Manon
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion/deutsche Untertitel\nDi 27. Oktober: L
+ IVE\nMo 23. November: Wiederholung\nFSK 10 · 190 Min.\nEin Film von Kenne
+ th MacMillan\n\nIm Paris des 18. Jahrhunderts zählt nur Geld. Manon liebt
+  den treuen Studenten Des Grieux und sieht in ihm die Chance auf ein ehrba
+ res Leben - doch der Luxus der reichen Gesellschaft lockt sie weiter.\n\nT
+ ickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000
+ 014ACVDDAK&page=seatingplan&language=de&FilmID=FF220000012ACVDDAK&performa
+ nce=B8A70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/90381/RB
+ O%20Live%202026-27%3A%20The%20Royal%20Ballet%20Manon
+URL:https://www.kinoevent.ch/detail/90381/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Ballet%20Manon
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd908d038fb3f043d6e623845d60c9affffc185@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261201T183000Z
+DTEND:20261201T212000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 1. Dezember:
+  Aufzeichnung\nDi 15. Dezember: Wiederholung\nFSK 10 · 170 Min.\nEin Film
+  von Peter Wright\n\nGenießen Sie dieses brillante Ballett als zauberhaft
+ es Weihnachtsvergnügen für die ganze Familie.\n\nTickets: https://iframe
+ .ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatin
+ gplan&language=de&FilmID=10320000012ACVDDAK&performance=F8A70000023ACVDDAK
+ \nFilminfo: https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%
+ 20The%20Royal%20Ballet%20Der%20Nussknacker
+URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Ballet%20Der%20Nussknacker
+END:VEVENT
+BEGIN:VEVENT
+UID:8a87b4457fdb24436ead437cc002ec14bfb0981e@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261208T133000Z
+DTEND:20261208T170500Z
+SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 10. November
+ : LIVE\nDi 8. Dezember: Wiederholung\nFSK 10 · 215 Min.\nGinger Costa-Jac
+ kson und Ramona Zaharia in einem Film von Damiano Michieletto\n\nUnter Spa
+ niens sengender Sonne verfällt Don Jose der stolzen Carmen\, obwohl sie i
+ hn warnt. Bizets Oper erzählt von Leidenschaft\, Gewalt und zerstörerisc
+ hem Verlangen.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingp
+ age?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=00320000
+ 012ACVDDAK&performance=D8A70000023ACVDDAK\nFilminfo: https://www.kinoevent
+ .ch/detail/32722/RBO%20Live%202026-27%3A%20The%20Royal%20Opera%20Carmen
+URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Opera%20Carmen
+END:VEVENT
+BEGIN:VEVENT
+UID:ab923ebfb56b18643a9af8b04676d31ecd5f4786@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20261215T133000Z
+DTEND:20261215T162000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 1. Dezember:
+  Aufzeichnung\nDi 15. Dezember: Wiederholung\nFSK 10 · 170 Min.\nEin Film
+  von Peter Wright\n\nGenießen Sie dieses brillante Ballett als zauberhaft
+ es Weihnachtsvergnügen für die ganze Familie.\n\nTickets: https://iframe
+ .ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatin
+ gplan&language=de&FilmID=10320000012ACVDDAK&performance=09A70000023ACVDDAK
+ \nFilminfo: https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%
+ 20The%20Royal%20Ballet%20Der%20Nussknacker
+URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Ballet%20Der%20Nussknacker
+END:VEVENT
+BEGIN:VEVENT
+UID:bedd10db798779f0291ec9a898585934c7d9ef3f@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270203T164500Z
+DTEND:20270203T223500Z
+SUMMARY:RBO Live 2026-27: The Royal Opera Götterdämmerung
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion/deutsche Untertitel\nFSK 10 · 350 Min
+ .\nAntonio Pappano\, Elisabet Strid und Andreas Schager in einem Film von 
+ Barrie Kosky\n\nSiegfried verrät Brünnhilde durch eine Täuschung. Als s
+ ie seine Unschuld erkennt\, gibt sie den Ring zurück und lässt Walhalla 
+ in Flammen aufgehen - Wagners Sage endet in einem gewaltigen Finale.\n\nTi
+ ckets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=700000000
+ 14ACVDDAK&page=seatingplan&language=de&FilmID=20320000012ACVDDAK&performan
+ ce=19A70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/128867/RB
+ O%20Live%202026-27%3A%20The%20Royal%20Opera%20G%C3%B6tterd%C3%A4mmerung
+URL:https://www.kinoevent.ch/detail/128867/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Opera%20G%C3%B6tterd%C3%A4mmerung
+END:VEVENT
+BEGIN:VEVENT
+UID:24e9b0ec251e1e95864d1059b7f2066ffd5e4f16@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270223T184500Z
+DTEND:20270223T221500Z
+SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 23. Februar:
+  LIVE\nDi 30. März: Wiederholung\nFSK 10 · 210 Min.\nEin Film von Netia 
+ Jones\n\nZwei junge Männer testen durch eine Wette die Treue ihrer Freund
+ innen. Daraus entsteht ein raffiniertes Spiel aus Verführung\, Macht und 
+ Täuschung\, in dem Liebe und Wahrheit ins Wanken geraten.\n\nTickets: htt
+ ps://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&
+ page=seatingplan&language=de&FilmID=30320000012ACVDDAK&performance=29A7000
+ 0023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/128868/RBO%20Live%2
+ 02026-27%3A%20The%20Royal%20Opera%20Cosi%20fan%20tutte
+URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Opera%20Cosi%20fan%20tutte
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec56853aec713f9597a1cf85350e13e1d1a4b8c@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270323T183000Z
+DTEND:20270323T203000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 23. März: A
+ ufzeichnung\nDi 13 April: Wiederholung\nFSK 10\n\nBei einer Gartenparty fo
+ lgt Alice dem weißen Kaninchen in den Bau und landet im Wunderland. Dort 
+ trifft sie seltsame Kreaturen und erlebt ein Abenteuer voller Verwirrung -
+  bis sie plötzlich erwacht.\n\nTickets: https://iframe.ticketshop.kinoeve
+ nt.ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&F
+ ilmID=40320000012ACVDDAK&performance=49A70000023ACVDDAK\nFilminfo: https:/
+ /www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20Royal%20Ba
+ llet%20Alice%20im%20Wunderland
+URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Ballet%20Alice%20im%20Wunderland
+END:VEVENT
+BEGIN:VEVENT
+UID:ec593d140c6fb8d23a2a106778dc9c6611662109@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270330T123000Z
+DTEND:20270330T160000Z
+SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 23. Februar:
+  LIVE\nDi 30. März: Wiederholung\nFSK 10 · 210 Min.\nEin Film von Netia 
+ Jones\n\nZwei junge Männer testen durch eine Wette die Treue ihrer Freund
+ innen. Daraus entsteht ein raffiniertes Spiel aus Verführung\, Macht und 
+ Täuschung\, in dem Liebe und Wahrheit ins Wanken geraten.\n\nTickets: htt
+ ps://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&
+ page=seatingplan&language=de&FilmID=30320000012ACVDDAK&performance=39A7000
+ 0023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/128868/RBO%20Live%2
+ 02026-27%3A%20The%20Royal%20Opera%20Cosi%20fan%20tutte
+URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Opera%20Cosi%20fan%20tutte
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5a5beba03b8d3a57ca0c36da3c50685057ae7b@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270413T123000Z
+DTEND:20270413T143000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDi 23. März: A
+ ufzeichnung\nDi 13 April: Wiederholung\nFSK 10\n\nBei einer Gartenparty fo
+ lgt Alice dem weißen Kaninchen in den Bau und landet im Wunderland. Dort 
+ trifft sie seltsame Kreaturen und erlebt ein Abenteuer voller Verwirrung -
+  bis sie plötzlich erwacht.\n\nTickets: https://iframe.ticketshop.kinoeve
+ nt.ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&F
+ ilmID=40320000012ACVDDAK&performance=59A70000023ACVDDAK\nFilminfo: https:/
+ /www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20Royal%20Ba
+ llet%20Alice%20im%20Wunderland
+URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Ballet%20Alice%20im%20Wunderland
+END:VEVENT
+BEGIN:VEVENT
+UID:766c83766210f5dfd4d579f2f5a90f2d3f7d806f@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270422T181500Z
+DTEND:20270422T201500Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDo 22. April: L
+ IVE\nDi 18. Mai: Wiederholung\nFSK 10\n\nPrinzessin Odette wurde von Rotba
+ rt in einen Schwan verwandelt. Nur ewige Liebe kann den Fluch brechen. Pri
+ nz Siegfried will sie retten\, doch Rotbart setzt alles daran\, ihr Glück
+  zu zerstören.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landing
+ page?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=5032000
+ 0012ACVDDAK&performance=69A70000023ACVDDAK\nFilminfo: https://www.kinoeven
+ t.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20Royal%20Ballet%20Schwan
+ ensee
+URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Ballet%20Schwanensee
+END:VEVENT
+BEGIN:VEVENT
+UID:cca34b14f0063784519b4acb2041b8eba0a5c104@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270505T180000Z
+DTEND:20270505T211500Z
+SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nMi 5. Mai: LIVE
+ \nDi 8. Juni Wiederholung\nFSK 10 · 195 Min.\nAleksandra Kurzak\, Saimir 
+ Pirgu und Christopher Maltman in einem Film von Event Director\n\nTosca un
+ d Cavaradossi lieben Kunst und einander. Als er einem Flüchtigen hilft\, 
+ wird Scarpia ihr Feind. Um ihren Geliebten zu retten\, muss Tosca einen gr
+ ausamen Handel eingehen.\n\nTickets: https://iframe.ticketshop.kinoevent.c
+ h/landingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmI
+ D=60320000012ACVDDAK&performance=89A70000023ACVDDAK\nFilminfo: https://www
+ .kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20Royal%20Opera%2
+ 0Tosca
+URL:https://www.kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Opera%20Tosca
+END:VEVENT
+BEGIN:VEVENT
+UID:8cdd94178792d1de73a51ece14bd7153effb7789@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270518T123000Z
+DTEND:20270518T143000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nDo 22. April: L
+ IVE\nDi 18. Mai: Wiederholung\nFSK 10\n\nPrinzessin Odette wurde von Rotba
+ rt in einen Schwan verwandelt. Nur ewige Liebe kann den Fluch brechen. Pri
+ nz Siegfried will sie retten\, doch Rotbart setzt alles daran\, ihr Glück
+  zu zerstören.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landing
+ page?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=5032000
+ 0012ACVDDAK&performance=79A70000023ACVDDAK\nFilminfo: https://www.kinoeven
+ t.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20Royal%20Ballet%20Schwan
+ ensee
+URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Ballet%20Schwanensee
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b1dd5287d995d45e06572fbcbf417ab5663029@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270525T173000Z
+DTEND:20270525T200000Z
+SUMMARY:RBO Live 2026-27: The Royal Ballet Romeo und Julia
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\n(Aufzeichnung)\
+ nFSK 10 · 150 Min.\nFumi Kaneko in einem Film von Kenneth MacMillan\n\nSh
+ akespeares tragische Liebesgeschichte wird in Kenneth MacMillans Ballett e
+ indrucksvoll lebendig. Prokofjews bewegende Musik begleitet Romeo und Juli
+ a von der ersten Liebe bis zum unausweichlichen Ende.\n\nTickets: https://
+ iframe.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=
+ seatingplan&language=de&FilmID=70320000012ACVDDAK&performance=A9A70000023A
+ CVDDAK\nFilminfo: https://www.kinoevent.ch/detail/126150/RBO%20Live%202026
+ -27%3A%20The%20Royal%20Ballet%20Romeo%20und%20Julia
+URL:https://www.kinoevent.ch/detail/126150/RBO%20Live%202026-27%3A%20The%20
+ Royal%20Ballet%20Romeo%20und%20Julia
+END:VEVENT
+BEGIN:VEVENT
+UID:82891884f82a190f5060354b38a192937ff0ad4a@kino-ics
+DTSTAMP:20261011T170023Z
+DTSTART:20270608T123000Z
+DTEND:20270608T154500Z
+SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Filmreihe: Royal Ballet and Opera London\nOrt: Kinobar Leuzinge
+ r\nSprache/Version: Originalversion - deutsche Untertitel\nMi 5. Mai: LIVE
+ \nDi 8. Juni Wiederholung\nFSK 10 · 195 Min.\nAleksandra Kurzak\, Saimir 
+ Pirgu und Christopher Maltman in einem Film von Event Director\n\nTosca un
+ d Cavaradossi lieben Kunst und einander. Als er einem Flüchtigen hilft\, 
+ wird Scarpia ihr Feind. Um ihren Geliebten zu retten\, muss Tosca einen gr
+ ausamen Handel eingehen.\n\nTickets: https://iframe.ticketshop.kinoevent.c
+ h/landingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmI
+ D=60320000012ACVDDAK&performance=99A70000023ACVDDAK\nFilminfo: https://www
+ .kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20Royal%20Opera%2
+ 0Tosca
+URL:https://www.kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20R
+ oyal%20Opera%20Tosca
+END:VEVENT
+END:VCALENDAR
