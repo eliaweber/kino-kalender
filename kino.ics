@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:46c29a9ed8a4ea80bfbb6d4d1e558e9105587b34@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261012T113000Z
 DTEND:20261012T124900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -30,7 +30,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:6acb315ec11a2e675aa9b74d74707a1033f7dd61@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261012T131500Z
 DTEND:20261012T150400Z
 SUMMARY:Forgotten Island
@@ -48,7 +48,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:10a244feef79bba634a856a15b984d3c42442e53@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261012T153000Z
 DTEND:20261012T175500Z
 SUMMARY:Spider-Man: Brand New Day
@@ -68,7 +68,7 @@ URL:https://www.kinoevent.ch/detail/120317/Spider-Man%3A%20Brand%20New%20Da
 END:VEVENT
 BEGIN:VEVENT
 UID:7dd7e8c8410aec76b6b51447c00dae7f567d13c2@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261012T181500Z
 DTEND:20261012T201200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -88,7 +88,7 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:7ed8edc2cf5b446f566f1bed714e6af4bc6526b9@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261012T181500Z
 DTEND:20261012T195700Z
 SUMMARY:Ingeborg Bachmann - Jemand\, der einmal ich war
@@ -108,7 +108,7 @@ URL:https://www.kinoevent.ch/detail/127759/Ingeborg%20Bachmann%20-%20Jemand
 END:VEVENT
 BEGIN:VEVENT
 UID:318b8a45ad2d1e40d8f4edab0499378a0eceddab@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261013T113000Z
 DTEND:20261013T124900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -127,7 +127,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:0c24d9d7fcd9c3cf1c0784e24289c011ab8943d6@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261013T131500Z
 DTEND:20261013T150400Z
 SUMMARY:Forgotten Island
@@ -145,7 +145,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:28747f3ca0f0d75a9e92dcef17a66b077a107ff8@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261013T153000Z
 DTEND:20261013T175500Z
 SUMMARY:Spider-Man: Brand New Day
@@ -165,7 +165,7 @@ URL:https://www.kinoevent.ch/detail/120317/Spider-Man%3A%20Brand%20New%20Da
 END:VEVENT
 BEGIN:VEVENT
 UID:09d9fde9c34552bc5a5792c680f6bb437c8effd5@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261013T181500Z
 DTEND:20261013T201200Z
 SUMMARY:Verity
@@ -183,7 +183,7 @@ URL:https://www.kinoevent.ch/detail/126253/Verity
 END:VEVENT
 BEGIN:VEVENT
 UID:c9a24854808427a3f9b3ba6e5e58c05eff604ef0@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261013T181500Z
 DTEND:20261013T195700Z
 SUMMARY:Ingeborg Bachmann - Jemand\, der einmal ich war
@@ -203,7 +203,7 @@ URL:https://www.kinoevent.ch/detail/127759/Ingeborg%20Bachmann%20-%20Jemand
 END:VEVENT
 BEGIN:VEVENT
 UID:56b8c077a491b17a85978f7fdd759f5235fd9edd@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T114500Z
 DTEND:20261014T130400Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -222,7 +222,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:0018a1b2786bec4c67d0729615a56db733c379b8@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T114500Z
 DTEND:20261014T131500Z
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
@@ -241,7 +241,7 @@ URL:https://www.kinoevent.ch/detail/120454/Bibi%20Blocksberg%20-%20Die%20to
 END:VEVENT
 BEGIN:VEVENT
 UID:c5eb7418f8d2defe02061e6adf29f0412e675eca@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T134500Z
 DTEND:20261014T153400Z
 SUMMARY:Forgotten Island
@@ -259,7 +259,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:61319a7462d0711c6769eba4b3e45afa4639648f@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T134500Z
 DTEND:20261014T153400Z
 SUMMARY:David
@@ -277,7 +277,7 @@ URL:https://www.kinoevent.ch/detail/125004/David
 END:VEVENT
 BEGIN:VEVENT
 UID:2b92c8a4e8b365d836fd77f409eee432df20279c@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T160000Z
 DTEND:20261014T174100Z
 SUMMARY:Eiserne Wildnis - Heart Of The Beast
@@ -297,7 +297,7 @@ URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
 END:VEVENT
 BEGIN:VEVENT
 UID:8b63a986450355e5e9c42f4526953d35638ed4b5@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T160000Z
 DTEND:20261014T174000Z
 SUMMARY:Pressure
@@ -315,7 +315,7 @@ URL:https://www.kinoevent.ch/detail/127777/Pressure
 END:VEVENT
 BEGIN:VEVENT
 UID:75c8b253e58642268e6a30dce22e9532ecb511af@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T181500Z
 DTEND:20261014T203800Z
 SUMMARY:Pirates of the Caribbean: The Curse of the Black Pearl [The Ones we
@@ -343,7 +343,7 @@ CATEGORIES:The Ones we Love
 END:VEVENT
 BEGIN:VEVENT
 UID:5e31d0debebcc4e97df8919a03dacaa02c152aeb@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261014T181500Z
 DTEND:20261014T201500Z
 SUMMARY:111 - Echoes from Halifax
@@ -367,7 +367,7 @@ URL:https://www.kinoevent.ch/detail/130576/111%20-%20Echoes%20from%20Halifa
 END:VEVENT
 BEGIN:VEVENT
 UID:ce6edfd60f35c204b4d932e38ec5f1f4f148f8aa@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261015T113000Z
 DTEND:20261015T124900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -386,7 +386,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:ef4a01efaa22f707aa92e806f09ca4dc3786f6d2@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261015T133000Z
 DTEND:20261015T151900Z
 SUMMARY:Forgotten Island
@@ -404,7 +404,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:9b69f75d9262b175de4e1f2741c3b56d49abf96f@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261015T160000Z
 DTEND:20261015T174100Z
 SUMMARY:Eiserne Wildnis - Heart Of The Beast
@@ -424,7 +424,7 @@ URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
 END:VEVENT
 BEGIN:VEVENT
 UID:61ffacf31af401eed8283c95d46b98aa85163942@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261015T181500Z
 DTEND:20261015T201200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -444,26 +444,26 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:38d6a92e16f6385d333c33e75ca524de27cc8b3a@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261015T181500Z
 DTEND:20261015T202700Z
 SUMMARY:Sinn und Sinnlichkeit
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nFSK 6 (Bed
- rohung\, belastende Szenen) · 132 Min.\nDaisy Edgar-Jones\, Esme Creed-Mi
- les und Caitriona Balfe in einem Film von Georgia Oakley\n\nNach dem Tod i
- hres Vaters verlieren die Schwestern Elinor und Marianne Dashwood ihr Zuha
- use. Während Elinor ihre Gefühle für Edward Ferrars verbirgt\, verliebt
-  sich Marianne in den charmanten John Willoughby.\n\nTickets: https://ifra
- me.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seat
- ingplan&language=de&FilmID=32320000012ACVDDAK&performance=9CB70000023ACVDD
- AK\nFilminfo: https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichk
- eit
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Deutsch gesprochen\nFSK 6 (Bedrohung\, belastende Szenen) · 132 Mi
+ n.\nDaisy Edgar-Jones\, Esme Creed-Miles und Caitriona Balfe in einem Film
+  von Georgia Oakley\n\nNach dem Tod ihres Vaters verlieren die Schwestern 
+ Elinor und Marianne Dashwood ihr Zuhause. Während Elinor ihre Gefühle f
+ ür Edward Ferrars verbirgt\, verliebt sich Marianne in den charmanten Joh
+ n Willoughby.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpa
+ ge?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=323200000
+ 12ACVDDAK&performance=9CB70000023ACVDDAK\nFilminfo: https://www.kinoevent.
+ ch/detail/22965/Sinn%20und%20Sinnlichkeit
 URL:https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichkeit
 END:VEVENT
 BEGIN:VEVENT
 UID:56256a26182aa895e24420f868a1b31431bbd032@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261016T113000Z
 DTEND:20261016T124900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -482,7 +482,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:084d810a5e2641f1455e1af1538a1067c6b67fd6@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261016T131500Z
 DTEND:20261016T150400Z
 SUMMARY:Forgotten Island
@@ -500,7 +500,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:3a5fc825809c77d2ce4e74954b697b2b33cbdb47@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261016T153000Z
 DTEND:20261016T175500Z
 SUMMARY:Spider-Man: Brand New Day
@@ -520,7 +520,7 @@ URL:https://www.kinoevent.ch/detail/120317/Spider-Man%3A%20Brand%20New%20Da
 END:VEVENT
 BEGIN:VEVENT
 UID:488760c55fda1df3bd6ba3d142a837f35475862a@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261016T181500Z
 DTEND:20261016T201200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -540,26 +540,26 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:5c5e37a3d5c4b5bc23844137a866485c7e9d2213@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261016T181500Z
 DTEND:20261016T202700Z
 SUMMARY:Sinn und Sinnlichkeit
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nFSK 6 (Bed
- rohung\, belastende Szenen) · 132 Min.\nDaisy Edgar-Jones\, Esme Creed-Mi
- les und Caitriona Balfe in einem Film von Georgia Oakley\n\nNach dem Tod i
- hres Vaters verlieren die Schwestern Elinor und Marianne Dashwood ihr Zuha
- use. Während Elinor ihre Gefühle für Edward Ferrars verbirgt\, verliebt
-  sich Marianne in den charmanten John Willoughby.\n\nTickets: https://ifra
- me.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seat
- ingplan&language=de&FilmID=32320000012ACVDDAK&performance=ACB70000023ACVDD
- AK\nFilminfo: https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichk
- eit
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Deutsch gesprochen\nFSK 6 (Bedrohung\, belastende Szenen) · 132 Mi
+ n.\nDaisy Edgar-Jones\, Esme Creed-Miles und Caitriona Balfe in einem Film
+  von Georgia Oakley\n\nNach dem Tod ihres Vaters verlieren die Schwestern 
+ Elinor und Marianne Dashwood ihr Zuhause. Während Elinor ihre Gefühle f
+ ür Edward Ferrars verbirgt\, verliebt sich Marianne in den charmanten Joh
+ n Willoughby.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpa
+ ge?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=323200000
+ 12ACVDDAK&performance=ACB70000023ACVDDAK\nFilminfo: https://www.kinoevent.
+ ch/detail/22965/Sinn%20und%20Sinnlichkeit
 URL:https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichkeit
 END:VEVENT
 BEGIN:VEVENT
 UID:12d9520739c219fb3135b82fbe7e9b1fb8b5d9ca@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T090000Z
 DTEND:20261017T102900Z
 SUMMARY:Minions und Monster
@@ -577,7 +577,7 @@ URL:https://www.kinoevent.ch/detail/114113/Minions%20und%20Monster
 END:VEVENT
 BEGIN:VEVENT
 UID:e98609a7465fc9c2261c88982bf5aab0953bd96e@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T113000Z
 DTEND:20261017T124900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -596,7 +596,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:bb7088ea871515df1893f30ffd3d66a79274718c@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T114500Z
 DTEND:20261017T131500Z
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
@@ -615,7 +615,7 @@ URL:https://www.kinoevent.ch/detail/120454/Bibi%20Blocksberg%20-%20Die%20to
 END:VEVENT
 BEGIN:VEVENT
 UID:9397f6b4cd703520bc70508ca453ad6d34dceddf@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T133000Z
 DTEND:20261017T151900Z
 SUMMARY:Forgotten Island
@@ -633,25 +633,25 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:f09b62d4d48525ab217a915a294744d73a97963c@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T134500Z
 DTEND:20261017T152500Z
 SUMMARY:Emil und die Detektive
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nFSK 6 (Bedrohung) · 100 Min.\nNicholas Jonah
-  Peter\, Merlin Sandmeyer und Lara Toni Lüdders in einem Film von David D
- ietl\n\nEmil reist in den Sommerferien nach Berlin\, wird im Zug bestohlen
-  und nimmt die Verfolgung des Diebs auf. Mit Hilfe einer Gruppe junger Det
- ektive jagt er den Betrüger quer durch die Hauptstadt.\n\nTickets: https:
- //iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&pag
- e=seatingplan&language=de&FilmID=A1320000012ACVDDAK&performance=CCB7000002
- 3ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/127964/Emil%20und%20di
- e%20Detektive
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 (B
+ edrohung) · 100 Min.\nNicholas Jonah Peter\, Merlin Sandmeyer und Lara To
+ ni Lüdders in einem Film von David Dietl\n\nEmil reist in den Sommerferie
+ n nach Berlin\, wird im Zug bestohlen und nimmt die Verfolgung des Diebs a
+ uf. Mit Hilfe einer Gruppe junger Detektive jagt er den Betrüger quer dur
+ ch die Hauptstadt.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/land
+ ingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=A132
+ 0000012ACVDDAK&performance=CCB70000023ACVDDAK\nFilminfo: https://www.kinoe
+ vent.ch/detail/127964/Emil%20und%20die%20Detektive
 URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:17a4b2b2203b5168de397da383c696c6c2e8fb32@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T160000Z
 DTEND:20261017T174100Z
 SUMMARY:Eiserne Wildnis - Heart Of The Beast
@@ -671,7 +671,7 @@ URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
 END:VEVENT
 BEGIN:VEVENT
 UID:3d0e7412b62e8833e75ac3862d6287362e6df58d@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T160000Z
 DTEND:20261017T180000Z
 SUMMARY:111 - Echoes from Halifax
@@ -695,7 +695,7 @@ URL:https://www.kinoevent.ch/detail/130576/111%20-%20Echoes%20from%20Halifa
 END:VEVENT
 BEGIN:VEVENT
 UID:48b60b0b173b4787714e4288aa0e5d354da43766@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T181500Z
 DTEND:20261017T201200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -715,42 +715,44 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:313125c018f12df4018830178e94eaae53eaaba6@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261017T181500Z
 DTEND:20261017T202700Z
 SUMMARY:Sinn und Sinnlichkeit
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nFSK 6 (Bed
- rohung\, belastende Szenen) · 132 Min.\nDaisy Edgar-Jones\, Esme Creed-Mi
- les und Caitriona Balfe in einem Film von Georgia Oakley\n\nNach dem Tod i
- hres Vaters verlieren die Schwestern Elinor und Marianne Dashwood ihr Zuha
- use. Während Elinor ihre Gefühle für Edward Ferrars verbirgt\, verliebt
-  sich Marianne in den charmanten John Willoughby.\n\nTickets: https://ifra
- me.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seat
- ingplan&language=de&FilmID=32320000012ACVDDAK&performance=ECB70000023ACVDD
- AK\nFilminfo: https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichk
- eit
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Deutsch gesprochen\nFSK 6 (Bedrohung\, belastende Szenen) · 132 Mi
+ n.\nDaisy Edgar-Jones\, Esme Creed-Miles und Caitriona Balfe in einem Film
+  von Georgia Oakley\n\nNach dem Tod ihres Vaters verlieren die Schwestern 
+ Elinor und Marianne Dashwood ihr Zuhause. Während Elinor ihre Gefühle f
+ ür Edward Ferrars verbirgt\, verliebt sich Marianne in den charmanten Joh
+ n Willoughby.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpa
+ ge?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=323200000
+ 12ACVDDAK&performance=ECB70000023ACVDDAK\nFilminfo: https://www.kinoevent.
+ ch/detail/22965/Sinn%20und%20Sinnlichkeit
 URL:https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichkeit
 END:VEVENT
 BEGIN:VEVENT
 UID:79c25da9a2ce389d200ed199dbad324a123ebc63@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T090000Z
 DTEND:20261018T110000Z
 SUMMARY:Das unendliche Jetzt
 LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\n\nWas passiert mit Menschen\, die an De
- menz erkranken? Was passiert mit Ihnen\, wenn sie sich dessen bewusst werd
- en? Und was\, wenn sie damit szenisch spielen und alles zur Sprache bringe
- n? Der Film wagt den Schritt ins Unbekannte.\n\nTickets: https://iframe.ti
- cketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingpl
- an&language=de&FilmID=52320000012ACVDDAK&performance=EBB70000023ACVDDAK\nF
- ilminfo: https://www.kinoevent.ch/detail/132177/Das%20unendliche%20Jetzt
+DESCRIPTION:Filmreihe: Sonntags-Matinées\nOrt: Kinobar Leuzinger\nSprache/
+ Version: Dialekt gesprochen/deutsche und franz. Untertitel\n\nWas passiert
+  mit Menschen\, die an Demenz erkranken? Was passiert mit Ihnen\, wenn sie
+  sich dessen bewusst werden? Und was\, wenn sie damit szenisch spielen und
+  alles zur Sprache bringen? Der Film wagt den Schritt ins Unbekannte.\n\nT
+ ickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000
+ 014ACVDDAK&page=seatingplan&language=de&FilmID=52320000012ACVDDAK&performa
+ nce=EBB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/132177/D
+ as%20unendliche%20Jetzt
 URL:https://www.kinoevent.ch/detail/132177/Das%20unendliche%20Jetzt
 END:VEVENT
 BEGIN:VEVENT
 UID:24bea47e6478c8423e9e969790d79a0aabf21509@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T113000Z
 DTEND:20261018T124900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -769,7 +771,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:def2285dafbe53a1bcd205d467f7e0b85a6b5a3a@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T114500Z
 DTEND:20261018T130800Z
 SUMMARY:PAW Patrol: Der Dino Film
@@ -788,7 +790,7 @@ URL:https://www.kinoevent.ch/detail/120318/PAW%20Patrol%3A%20Der%20Dino%20F
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a424510d6f4fb05f7e7f39b854d45115128bcf@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T131500Z
 DTEND:20261018T150400Z
 SUMMARY:Forgotten Island
@@ -806,25 +808,25 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:18dece1767c0a7b01fc5b9c8d92c9b55f2f66714@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T134500Z
 DTEND:20261018T152500Z
 SUMMARY:Emil und die Detektive
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nFSK 6 (Bedrohung) · 100 Min.\nNicholas Jonah
-  Peter\, Merlin Sandmeyer und Lara Toni Lüdders in einem Film von David D
- ietl\n\nEmil reist in den Sommerferien nach Berlin\, wird im Zug bestohlen
-  und nimmt die Verfolgung des Diebs auf. Mit Hilfe einer Gruppe junger Det
- ektive jagt er den Betrüger quer durch die Hauptstadt.\n\nTickets: https:
- //iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&pag
- e=seatingplan&language=de&FilmID=A1320000012ACVDDAK&performance=0DB7000002
- 3ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/127964/Emil%20und%20di
- e%20Detektive
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 (B
+ edrohung) · 100 Min.\nNicholas Jonah Peter\, Merlin Sandmeyer und Lara To
+ ni Lüdders in einem Film von David Dietl\n\nEmil reist in den Sommerferie
+ n nach Berlin\, wird im Zug bestohlen und nimmt die Verfolgung des Diebs a
+ uf. Mit Hilfe einer Gruppe junger Detektive jagt er den Betrüger quer dur
+ ch die Hauptstadt.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/land
+ ingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=A132
+ 0000012ACVDDAK&performance=0DB70000023ACVDDAK\nFilminfo: https://www.kinoe
+ vent.ch/detail/127964/Emil%20und%20die%20Detektive
 URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4aa9c48dac511d321032a8e11ab69cf75f5a96@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T153000Z
 DTEND:20261018T175500Z
 SUMMARY:Spider-Man: Brand New Day
@@ -844,26 +846,26 @@ URL:https://www.kinoevent.ch/detail/120317/Spider-Man%3A%20Brand%20New%20Da
 END:VEVENT
 BEGIN:VEVENT
 UID:b8bffe8be77461163820e072df07368cdd0226ac@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T154500Z
 DTEND:20261018T175700Z
 SUMMARY:Sinn und Sinnlichkeit
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nFSK 6 (Bed
- rohung\, belastende Szenen) · 132 Min.\nDaisy Edgar-Jones\, Esme Creed-Mi
- les und Caitriona Balfe in einem Film von Georgia Oakley\n\nNach dem Tod i
- hres Vaters verlieren die Schwestern Elinor und Marianne Dashwood ihr Zuha
- use. Während Elinor ihre Gefühle für Edward Ferrars verbirgt\, verliebt
-  sich Marianne in den charmanten John Willoughby.\n\nTickets: https://ifra
- me.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seat
- ingplan&language=de&FilmID=32320000012ACVDDAK&performance=2DB70000023ACVDD
- AK\nFilminfo: https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichk
- eit
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Deutsch gesprochen\nFSK 6 (Bedrohung\, belastende Szenen) · 132 Mi
+ n.\nDaisy Edgar-Jones\, Esme Creed-Miles und Caitriona Balfe in einem Film
+  von Georgia Oakley\n\nNach dem Tod ihres Vaters verlieren die Schwestern 
+ Elinor und Marianne Dashwood ihr Zuhause. Während Elinor ihre Gefühle f
+ ür Edward Ferrars verbirgt\, verliebt sich Marianne in den charmanten Joh
+ n Willoughby.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpa
+ ge?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=323200000
+ 12ACVDDAK&performance=2DB70000023ACVDDAK\nFilminfo: https://www.kinoevent.
+ ch/detail/22965/Sinn%20und%20Sinnlichkeit
 URL:https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichkeit
 END:VEVENT
 BEGIN:VEVENT
 UID:f494d1d37c8de5e7bc15ffd159b7d6038ef48f6a@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T181500Z
 DTEND:20261018T201200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -883,25 +885,25 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf02f5372cc202d5bae45d4d82c92a32e8032b3@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261018T181500Z
 DTEND:20261018T202400Z
 SUMMARY:Digger
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nFSK 12 (Bedrohung\, Sprache) · 129 Min.\nTom
-  Cruise\, Sandra Hüller und Riz Ahmed in einem Film von Alejandro Gonzale
- z Inarritu\n\nDer exzentrische Ölmagnat Digger Rockwell muss die Umweltka
- tastrophe beheben\, die er selbst verursacht hat. Der US-Präsident zwingt
-  ihn\, die Erde zu retten – eine Aufgabe\, die Rockwells Ego perfekt bed
- ient.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?cente
- r=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=42320000012ACVDDA
- K&performance=3DB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detai
- l/125189/Digger
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 12 (
+ Bedrohung\, Sprache) · 129 Min.\nTom Cruise\, Sandra Hüller und Riz Ahme
+ d in einem Film von Alejandro Gonzalez Inarritu\n\nDer exzentrische Ölmag
+ nat Digger Rockwell muss die Umweltkatastrophe beheben\, die er selbst ver
+ ursacht hat. Der US-Präsident zwingt ihn\, die Erde zu retten – eine Au
+ fgabe\, die Rockwells Ego perfekt bedient.\n\nTickets: https://iframe.tick
+ etshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seatingplan
+ &language=de&FilmID=42320000012ACVDDAK&performance=3DB70000023ACVDDAK\nFil
+ minfo: https://www.kinoevent.ch/detail/125189/Digger
 URL:https://www.kinoevent.ch/detail/125189/Digger
 END:VEVENT
 BEGIN:VEVENT
 UID:f7f0b4c3a450c4fec0d8d92bdff1e0dd7cf75ba2@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261019T181500Z
 DTEND:20261019T201200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -921,25 +923,26 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:f81019dd28839fb30d61ec2d213c4bc8ec5183c3@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261019T181500Z
 DTEND:20261019T202400Z
 SUMMARY:Digger
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nFSK 12 (Bedrohung\, Sprache) · 129 Min.\nTom
-  Cruise\, Sandra Hüller und Riz Ahmed in einem Film von Alejandro Gonzale
- z Inarritu\n\nAging oil magnate Digger Rockwell has spent decades exploiti
- ng the planet through ruthless business tactics\, triggering a catastrophi
- c environmental crisis that pushes humanity toward the brink of collapse.\
- n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=8000
- 0000014ACVDDAK&page=seatingplan&language=de&FilmID=42320000012ACVDDAK&perf
- ormance=5DB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/1264
- 41/Digger
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Englisch gesprochen/deutsche
+  und franz. Untertitel\nFSK 12 (Bedrohung\, Sprache) · 129 Min.\nTom Crui
+ se\, Sandra Hüller und Riz Ahmed in einem Film von Alejandro Gonzalez Ina
+ rritu\n\nAging oil magnate Digger Rockwell has spent decades exploiting th
+ e planet through ruthless business tactics\, triggering a catastrophic env
+ ironmental crisis that pushes humanity toward the brink of collapse.\n\nTi
+ ckets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=800000000
+ 14ACVDDAK&page=seatingplan&language=de&FilmID=42320000012ACVDDAK&performan
+ ce=5DB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/126441/Di
+ gger
 URL:https://www.kinoevent.ch/detail/126441/Digger
 END:VEVENT
 BEGIN:VEVENT
 UID:2a225d1ebe2d73e4b238bb20e2f03292d508c1b6@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261020T181500Z
 DTEND:20261020T201200Z
 SUMMARY:Verity
@@ -957,26 +960,26 @@ URL:https://www.kinoevent.ch/detail/126253/Verity
 END:VEVENT
 BEGIN:VEVENT
 UID:cb66e1803a52a4d4c6bc78e532a09161827fc517@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261020T181500Z
 DTEND:20261020T202700Z
 SUMMARY:Sinn und Sinnlichkeit
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nFSK 6 (Bed
- rohung\, belastende Szenen) · 132 Min.\nDaisy Edgar-Jones\, Esme Creed-Mi
- les und Caitriona Balfe in einem Film von Georgia Oakley\n\nNach dem Tod i
- hres Vaters verlieren die Schwestern Elinor und Marianne Dashwood ihr Zuha
- use. Während Elinor ihre Gefühle für Edward Ferrars verbirgt\, verliebt
-  sich Marianne in den charmanten John Willoughby.\n\nTickets: https://ifra
- me.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seat
- ingplan&language=de&FilmID=32320000012ACVDDAK&performance=6DB70000023ACVDD
- AK\nFilminfo: https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichk
- eit
+DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
+ rsion: Deutsch gesprochen\nFSK 6 (Bedrohung\, belastende Szenen) · 132 Mi
+ n.\nDaisy Edgar-Jones\, Esme Creed-Miles und Caitriona Balfe in einem Film
+  von Georgia Oakley\n\nNach dem Tod ihres Vaters verlieren die Schwestern 
+ Elinor und Marianne Dashwood ihr Zuhause. Während Elinor ihre Gefühle f
+ ür Edward Ferrars verbirgt\, verliebt sich Marianne in den charmanten Joh
+ n Willoughby.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpa
+ ge?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=323200000
+ 12ACVDDAK&performance=6DB70000023ACVDDAK\nFilminfo: https://www.kinoevent.
+ ch/detail/22965/Sinn%20und%20Sinnlichkeit
 URL:https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichkeit
 END:VEVENT
 BEGIN:VEVENT
 UID:f409811e44cd60db0f42fb391f4f0b493c84311d@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261021T113000Z
 DTEND:20261021T124900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -995,7 +998,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:70cfcd1faca2ba7a1d78d2d266a5b43fef0c47d6@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261021T133000Z
 DTEND:20261021T151900Z
 SUMMARY:Forgotten Island
@@ -1013,25 +1016,25 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:81fcbe817772c1d6ea92ae9a521d55fc717e6bf9@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261021T140000Z
 DTEND:20261021T154000Z
 SUMMARY:Emil und die Detektive
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nFSK 6 (Bedrohung) · 100 Min.\nNicholas Jonah
-  Peter\, Merlin Sandmeyer und Lara Toni Lüdders in einem Film von David D
- ietl\n\nEmil reist in den Sommerferien nach Berlin\, wird im Zug bestohlen
-  und nimmt die Verfolgung des Diebs auf. Mit Hilfe einer Gruppe junger Det
- ektive jagt er den Betrüger quer durch die Hauptstadt.\n\nTickets: https:
- //iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&pag
- e=seatingplan&language=de&FilmID=A1320000012ACVDDAK&performance=8DB7000002
- 3ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/127964/Emil%20und%20di
- e%20Detektive
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 (B
+ edrohung) · 100 Min.\nNicholas Jonah Peter\, Merlin Sandmeyer und Lara To
+ ni Lüdders in einem Film von David Dietl\n\nEmil reist in den Sommerferie
+ n nach Berlin\, wird im Zug bestohlen und nimmt die Verfolgung des Diebs a
+ uf. Mit Hilfe einer Gruppe junger Detektive jagt er den Betrüger quer dur
+ ch die Hauptstadt.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/land
+ ingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=A132
+ 0000012ACVDDAK&performance=8DB70000023ACVDDAK\nFilminfo: https://www.kinoe
+ vent.ch/detail/127964/Emil%20und%20die%20Detektive
 URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:6f6f70b51c5fd4091b9b0bf94ff216b5abe81b04@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261021T160000Z
 DTEND:20261021T174100Z
 SUMMARY:Eiserne Wildnis - Heart Of The Beast
@@ -1051,7 +1054,7 @@ URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
 END:VEVENT
 BEGIN:VEVENT
 UID:2756f651bb17f8327f573ab32e088c422aae7003@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261021T160000Z
 DTEND:20261021T180000Z
 SUMMARY:111 - Echoes from Halifax
@@ -1075,7 +1078,7 @@ URL:https://www.kinoevent.ch/detail/130576/111%20-%20Echoes%20from%20Halifa
 END:VEVENT
 BEGIN:VEVENT
 UID:e5d252b7231f440aba8ac0d7ba92a136aeb201bb@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261021T181500Z
 DTEND:20261021T201100Z
 SUMMARY:Der Perfekte Urlaub
@@ -1094,25 +1097,26 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:ea093dd84935fa9bceb1c1d3c64b922a244b0a6b@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261021T181500Z
 DTEND:20261021T202700Z
 SUMMARY:Sense and Sensibility
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nFSK 6 (Bedrohung\, belastende Szenen) · 132 
- Min.\nDaisy Edgar-Jones\, Esme Creed-Miles und Caitriona Balfe in einem Fi
- lm von Georgia Oakley\n\nAfter their father´s death\, sisters Elinor Dash
- wood and Marianne Dashwood lose their home when the estate passes to their
-  half-brother\, forcing them to adapt to a new life under considerably red
- uced circumstances.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/lan
- dingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=323
- 20000012ACVDDAK&performance=7DB70000023ACVDDAK\nFilminfo: https://www.kino
- event.ch/detail/122589/Sense%20and%20Sensibility
+DESCRIPTION:Ort: Schlosskino\nSprache/Version: Englisch gesprochen/deutsche
+  und franz. Untertitel\nFSK 6 (Bedrohung\, belastende Szenen) · 132 Min.\
+ nDaisy Edgar-Jones\, Esme Creed-Miles und Caitriona Balfe in einem Film vo
+ n Georgia Oakley\n\nAfter their father´s death\, sisters Elinor Dashwood 
+ and Marianne Dashwood lose their home when the estate passes to their half
+ -brother\, forcing them to adapt to a new life under considerably reduced 
+ circumstances.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingp
+ age?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=32320000
+ 012ACVDDAK&performance=7DB70000023ACVDDAK\nFilminfo: https://www.kinoevent
+ .ch/detail/122589/Sense%20and%20Sensibility
 URL:https://www.kinoevent.ch/detail/122589/Sense%20and%20Sensibility
 END:VEVENT
 BEGIN:VEVENT
 UID:19009f7a879e9400a394d725c57ea89d90790be2@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261027T190000Z
 DTEND:20261027T221000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Manon
@@ -1132,7 +1136,7 @@ URL:https://www.kinoevent.ch/detail/90381/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:ae8c75d47e26721ee2b7d66fb5fb7ab75f7d9515@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261028T184500Z
 DTEND:20261028T204100Z
 SUMMARY:Der Perfekte Urlaub
@@ -1151,7 +1155,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:0645a21dbd27dd5f9b423098f5faee6ae955eed6@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261104T191500Z
 DTEND:20261104T210900Z
 SUMMARY:Rammstein: Live in Mexico City
@@ -1170,7 +1174,7 @@ URL:https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in%20Mexic
 END:VEVENT
 BEGIN:VEVENT
 UID:d0ce0561890c80071795d92e86aad1715241a773@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261107T170000Z
 DTEND:20261107T185400Z
 SUMMARY:Rammstein: Live in Mexico City
@@ -1189,7 +1193,7 @@ URL:https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in%20Mexic
 END:VEVENT
 BEGIN:VEVENT
 UID:22006ee3945987032effe53588cd89dd97a71e84@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261110T190000Z
 DTEND:20261110T223500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
@@ -1209,7 +1213,7 @@ URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:f63c798e9417e514e854a27bdb79d663251e515c@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261111T191500Z
 DTEND:20261111T214200Z
 SUMMARY:Midsommar [The Ones we Love]
@@ -1229,44 +1233,46 @@ CATEGORIES:The Ones we Love
 END:VEVENT
 BEGIN:VEVENT
 UID:eab5a46b84305e4c2204d8810ec05bb682b72cee@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261115T123000Z
 DTEND:20261115T143000Z
 SUMMARY:Dä Rägebogefisch
 LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\n\nAls liebevolle Adaption durch die Aug
- sburger Puppenkiste\, produziert vom Team von Heidi\, Di chli Häx und De 
- Räuber Hotzenplotz und mit den Stimmen von Max Hubacher und Luna Wedler\,
-  erstrahlt der weltweit bekannte Kinderbuch-Klassiker des Berner Autors un
- d Illustrators Marcus Pfister erstmals auf der grossen Leinwand. Einzigart
- ig\, zeitgemäss interpretiert - und auf Schweizerdeutsch!\n\nTickets: htt
- ps://iframe.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&
- page=seatingplan&language=de&FilmID=22320000012ACVDDAK&performance=FAB7000
- 0023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%
- C3%A4gebogefisch
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Dialekt gesprochen\nEi
+ ntritt mit Coop Hello Family Card nur Fr. 10.--/Ticket\n\nAls liebevolle A
+ daption durch die Augsburger Puppenkiste\, produziert vom Team von Heidi\,
+  Di chli Häx und De Räuber Hotzenplotz und mit den Stimmen von Max Hubac
+ her und Luna Wedler\, erstrahlt der weltweit bekannte Kinderbuch-Klassiker
+  des Berner Autors und Illustrators Marcus Pfister erstmals auf der grosse
+ n Leinwand. Einzigartig\, zeitgemäss interpretiert - und auf Schweizerdeu
+ tsch!\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?cente
+ r=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=22320000012ACVDDA
+ K&performance=FAB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detai
+ l/131450/D%C3%A4%20R%C3%A4gebogefisch
 URL:https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
 END:VEVENT
 BEGIN:VEVENT
 UID:086194ca1e4406868a60ac5862aa1514d72c23eb@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261117T180000Z
 DTEND:20261117T195000Z
 SUMMARY:Alte Liebe
 LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
 DESCRIPTION:Filmreihe: Stitches & Movie - Strickkino\nOrt: Kinobar Leuzinge
- r\nFSK 6 (belastende Szenen\, Sprache) · 110 Min.\nDagmar Manzel\, Joachi
- m Krol und Anna von Seld in einem Film von Andreas Dresen\n\nLore und Harr
- y streiten seit fast 40 Jahren\, doch im Ruhestand wird es nicht ruhiger. 
- Ihre Tochter Gloria will zum dritten Mal heiraten – diesmal mit einem Ma
- nn\, der Harry wie ein Vater vorkommt.\n\nTickets: https://iframe.ticketsh
- op.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&lan
- guage=de&FilmID=12320000012ACVDDAK&performance=EAB70000023ACVDDAK\nFilminf
- o: https://www.kinoevent.ch/detail/127787/Alte%20Liebe
+ r\nSprache/Version: Strickkino - mit Saallicht\nDeutsch gesprochen\nFSK 6 
+ (belastende Szenen\, Sprache) · 110 Min.\nDagmar Manzel\, Joachim Krol un
+ d Anna von Seld in einem Film von Andreas Dresen\n\nLore und Harry streite
+ n seit fast 40 Jahren\, doch im Ruhestand wird es nicht ruhiger. Ihre Toch
+ ter Gloria will zum dritten Mal heiraten – diesmal mit einem Mann\, der 
+ Harry wie ein Vater vorkommt.\n\nTickets: https://iframe.ticketshop.kinoev
+ ent.ch/landingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&
+ FilmID=12320000012ACVDDAK&performance=EAB70000023ACVDDAK\nFilminfo: https:
+ //www.kinoevent.ch/detail/127787/Alte%20Liebe
 URL:https://www.kinoevent.ch/detail/127787/Alte%20Liebe
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc5862bca32941b6b2210dc593a8f88807ca61f@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261123T133000Z
 DTEND:20261123T164000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Manon
@@ -1286,7 +1292,7 @@ URL:https://www.kinoevent.ch/detail/90381/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:4cd908d038fb3f043d6e623845d60c9affffc185@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261201T183000Z
 DTEND:20261201T212000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -1305,7 +1311,7 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:8a87b4457fdb24436ead437cc002ec14bfb0981e@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261208T133000Z
 DTEND:20261208T170500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
@@ -1325,7 +1331,7 @@ URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:ab923ebfb56b18643a9af8b04676d31ecd5f4786@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20261215T133000Z
 DTEND:20261215T162000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -1344,7 +1350,7 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:bedd10db798779f0291ec9a898585934c7d9ef3f@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270203T164500Z
 DTEND:20270203T223500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Götterdämmerung
@@ -1364,7 +1370,7 @@ URL:https://www.kinoevent.ch/detail/128867/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:24e9b0ec251e1e95864d1059b7f2066ffd5e4f16@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270223T184500Z
 DTEND:20270223T221500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -1384,7 +1390,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:0ec56853aec713f9597a1cf85350e13e1d1a4b8c@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270323T183000Z
 DTEND:20270323T203000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -1404,7 +1410,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:ec593d140c6fb8d23a2a106778dc9c6611662109@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270330T123000Z
 DTEND:20270330T160000Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -1424,7 +1430,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cf5a5beba03b8d3a57ca0c36da3c50685057ae7b@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270413T123000Z
 DTEND:20270413T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -1444,7 +1450,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:766c83766210f5dfd4d579f2f5a90f2d3f7d806f@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270422T181500Z
 DTEND:20270422T201500Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -1464,7 +1470,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cca34b14f0063784519b4acb2041b8eba0a5c104@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270505T180000Z
 DTEND:20270505T211500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
@@ -1485,7 +1491,7 @@ URL:https://www.kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:8cdd94178792d1de73a51ece14bd7153effb7789@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270518T123000Z
 DTEND:20270518T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -1505,7 +1511,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:e5b1dd5287d995d45e06572fbcbf417ab5663029@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270525T173000Z
 DTEND:20270525T200000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Romeo und Julia
@@ -1525,7 +1531,7 @@ URL:https://www.kinoevent.ch/detail/126150/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:82891884f82a190f5060354b38a192937ff0ad4a@kino-ics
-DTSTAMP:20261012T100003Z
+DTSTAMP:20261012T120001Z
 DTSTART:20270608T123000Z
 DTEND:20270608T154500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
