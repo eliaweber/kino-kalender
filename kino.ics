@@ -10,141 +10,8 @@ X-WR-TIMEZONE:Europe/Zurich
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:83105d71e7d40d586e34c5e849d363842da5a9ab@kino-ics
-DTSTAMP:20261028T050001Z
-DTSTART:20261028T123000Z
-DTEND:20261028T134900Z
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
- K 6 · 79 Min.\nJustin Fletcher\, John Sparkes und Nina Sosanya in einem F
- ilm von Steve Cox\, Matthew Walker\n\nShauns Halloween-Pläne geraten durc
- heinander\, als der Farmer das Kürbisbeet zerstört. Seine Rettungsversuc
- he lösen Chaos aus: Der Farmer verschwindet\, ein haariges Wesen taucht a
- uf.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=
- 70000000014ACVDDAK&page=seatingplan&language=de&FilmID=91320000012ACVDDAK&
- performance=0FB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/
- 125190/Shaun%20das%20Schaf%20-%20Spuk%20im%20K%C3%BCrbisfeld
-URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
- 0im%20K%C3%BCrbisfeld
-END:VEVENT
-BEGIN:VEVENT
-UID:2f933f5ba928dd2c80f0ad9ce1371fe7c55b699a@kino-ics
-DTSTAMP:20261028T050001Z
-DTSTART:20261028T123000Z
-DTEND:20261028T140000Z
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 ·
-  90 Min.\nNala\, Carmen Diego und Carla Demmin in einem Film von Gregor Sc
- hnitzler\n\nBibis Museumspraktikum wird zum Abenteuer\, als eine wertvolle
-  Spieluhr verschwindet. Mit ihren Freunden reist sie in die Vergangenheit\
- , wo sie Fritzi und Maxim begegnen und Ungerechtigkeit erleben.\n\nTickets
- : https://iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACV
- DDAK&page=seatingplan&language=de&FilmID=71320000012ACVDDAK&performance=00
- C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/120454/Bibi%20
- Blocksberg%20-%20Die%20total%20verhexte%20Zeitreise
-URL:https://www.kinoevent.ch/detail/120454/Bibi%20Blocksberg%20-%20Die%20to
- tal%20verhexte%20Zeitreise
-END:VEVENT
-BEGIN:VEVENT
-UID:26f3216b62d8693575fee47ef12013749a93569a@kino-ics
-DTSTAMP:20261028T050001Z
-DTSTART:20261028T143000Z
-DTEND:20261028T161900Z
-SUMMARY:Forgotten Island
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
- K 6 (Bedrohung) · 109 Min.\nH.E.R.\, Liza Soberano und Dave Franco in ein
- em Film von Joel Crawford\, Januel P. Mercado\n\nVor ihrem Neuanfang erleb
- en Jo und Raissa eine magische Abschiedsnacht: Ein Portal führt sie auf d
- ie Insel Nakali\, wo sie mythische Wesen und die Manananggal treffen – u
- nd ihre Freundschaft auf die Probe stellen.\n\nTickets: https://iframe.tic
- ketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingpla
- n&language=de&FilmID=D0320000012ACVDDAK&performance=1FB70000023ACVDDAK\nFi
- lminfo: https://www.kinoevent.ch/detail/125193/Forgotten%20Island
-URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
-END:VEVENT
-BEGIN:VEVENT
-UID:ce8c15c20fd0ea9ccc2245ba44c8fe699fbd6768@kino-ics
-DTSTAMP:20261028T050001Z
-DTSTART:20261028T143000Z
-DTEND:20261028T161000Z
-SUMMARY:Emil und die Detektive
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 (B
- edrohung) · 100 Min.\nNicholas Jonah Peter\, Merlin Sandmeyer und Lara To
- ni Lüdders in einem Film von David Dietl\n\nEmil reist in den Sommerferie
- n nach Berlin\, wird im Zug bestohlen und nimmt die Verfolgung des Diebs a
- uf. Mit Hilfe einer Gruppe junger Detektive jagt er den Betrüger quer dur
- ch die Hauptstadt.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/land
- ingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=A132
- 0000012ACVDDAK&performance=10C70000023ACVDDAK\nFilminfo: https://www.kinoe
- vent.ch/detail/127964/Emil%20und%20die%20Detektive
-URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
-END:VEVENT
-BEGIN:VEVENT
-UID:439524a5328f3ae3686978041301106b317e141b@kino-ics
-DTSTAMP:20261028T050001Z
-DTSTART:20261028T164500Z
-DTEND:20261028T185700Z
-SUMMARY:Sense and Sensibility
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
- rsion: Englisch gesprochen/deutsche und franz. Untertitel\nFSK 6 (Bedrohun
- g\, belastende Szenen) · 132 Min.\nDaisy Edgar-Jones\, Esme Creed-Miles u
- nd Caitriona Balfe in einem Film von Georgia Oakley\n\nAfter their father
- ´s death\, sisters Elinor Dashwood and Marianne Dashwood lose their home 
- when the estate passes to their half-brother\, forcing them to adapt to a 
- new life under considerably reduced circumstances.\n\nTickets: https://ifr
- ame.ticketshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=sea
- tingplan&language=de&FilmID=32320000012ACVDDAK&performance=20C70000023ACVD
- DAK\nFilminfo: https://www.kinoevent.ch/detail/122589/Sense%20and%20Sensib
- ility
-URL:https://www.kinoevent.ch/detail/122589/Sense%20and%20Sensibility
-END:VEVENT
-BEGIN:VEVENT
-UID:1a51a9e8cba5f1a82ac6e1e27fab360d4cade2ad@kino-ics
-DTSTAMP:20261028T050001Z
-DTSTART:20261028T184500Z
-DTEND:20261028T204100Z
-SUMMARY:Der Perfekte Urlaub
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Frauenkino\nOrt: Kinobar Leuzinger\nSprache/Version:
-  Deutsch gesprochen\nFSK 12 · 116 Min.\nElyas M´Barek\, Karoline Herfurt
- h und Florian David Fitz in einem Film von Bora Dagtekin\n\nLeo\, Pepe\, R
- occo und Simon suchen auf Mallorca Ruhe nach ihrem Zerwürfnis\, doch Eva\
- , Carlotta und Maus wohnen in derselben Villa. Nach einem Brand im Clubhot
- el brechen alte Konflikte und neue Geheimnisse auf.\n\nTickets: https://if
- rame.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=se
- atingplan&language=de&FilmID=F1320000012ACVDDAK&performance=CAB70000023ACV
- DDAK\nFilminfo: https://www.kinoevent.ch/detail/132195/Der%20Perfekte%20Ur
- laub
-URL:https://www.kinoevent.ch/detail/132195/Der%20Perfekte%20Urlaub
-END:VEVENT
-BEGIN:VEVENT
-UID:0bfffe6d53e936bff1883580d2edc79da06905d7@kino-ics
-DTSTAMP:20261028T050001Z
-DTSTART:20261028T191500Z
-DTEND:20261028T211200Z
-SUMMARY:Verity - Dunkle Geheimnisse
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 14 (
- Gewalt\, Sexualität\, belastende Themen) · 117 Min.\nAnne Hathaway\, Dak
- ota Johnson und Josh Hartnett in einem Film von Michael Showalter\n\nLowen
-  Ashleigh soll die Buchreihe der verunglückten Bestsellerautorin Verity C
- rawford vollenden. Im Anwesen der Familie stößt sie auf verstörende Auf
- zeichnungen\, die alles infrage stellen.\n\nTickets: https://iframe.ticket
- shop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seatingplan&l
- anguage=de&FilmID=C1320000012ACVDDAK&performance=30C70000023ACVDDAK\nFilmi
- nfo: https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimni
- sse
-URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
- e
-END:VEVENT
-BEGIN:VEVENT
 UID:9b06d002774bcf26340b59c2596f1157282e6ee6@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261029T191500Z
 DTEND:20261029T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -163,7 +30,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:4113a00c121449f09e2ce7a9f2e55e929ac98651@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261029T191500Z
 DTEND:20261029T211200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -183,7 +50,7 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:15faa57a8efb19156de75eae0aecce10d76d1761@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261030T191500Z
 DTEND:20261030T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -202,7 +69,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:e88c1a966e47c5e8a325d2ac4dec857ce1f3c4cc@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261030T191500Z
 DTEND:20261030T212700Z
 SUMMARY:Sinn und Sinnlichkeit
@@ -221,7 +88,7 @@ URL:https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichkeit
 END:VEVENT
 BEGIN:VEVENT
 UID:ab21fe87d4f63b4dc27078cc4f060dddf9b11ea6@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T100000Z
 DTEND:20261031T112900Z
 SUMMARY:Minions und Monster
@@ -240,7 +107,7 @@ URL:https://www.kinoevent.ch/detail/114113/Minions%20und%20Monster
 END:VEVENT
 BEGIN:VEVENT
 UID:25d5d00c0e58b24d4b59e90743e8bfffc498d276@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T123000Z
 DTEND:20261031T134900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -259,7 +126,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:86a02defc03efc8580904d760371d06a7adca717@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T123000Z
 DTEND:20261031T141900Z
 SUMMARY:David
@@ -277,7 +144,7 @@ URL:https://www.kinoevent.ch/detail/125004/David
 END:VEVENT
 BEGIN:VEVENT
 UID:43b2693546c585d6b3eb2e03e5633bb1a16946b1@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T143000Z
 DTEND:20261031T161900Z
 SUMMARY:Forgotten Island
@@ -295,7 +162,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:c25d2a9bdb380f5fc63a02d2e8b0fb48dddeea74@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T144500Z
 DTEND:20261031T162500Z
 SUMMARY:Emil und die Detektive
@@ -313,7 +180,7 @@ URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:04c54d76711baf2e7860892e238f615e77092b27@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T170000Z
 DTEND:20261031T184100Z
 SUMMARY:Eiserne Wildnis - Heart Of The Beast
@@ -333,7 +200,7 @@ URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
 END:VEVENT
 BEGIN:VEVENT
 UID:501891e7296b4ba3c7b02d01d0d3ee9cbb7594d8@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T170000Z
 DTEND:20261031T183500Z
 SUMMARY:Frank & Louis
@@ -352,7 +219,7 @@ URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:9fcd566d0a86c1d7d4a1a680371f776499de7597@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T191500Z
 DTEND:20261031T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -371,7 +238,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:d0fb79ab467e52817bbaf847a170139ede6b6357@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261031T191500Z
 DTEND:20261031T211200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -391,7 +258,7 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:7f859542db2fc8188acd668930a751a8a1ebab39@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T100000Z
 DTEND:20261101T120000Z
 SUMMARY:Das unendliche Jetzt
@@ -409,7 +276,7 @@ URL:https://www.kinoevent.ch/detail/132177/Das%20unendliche%20Jetzt
 END:VEVENT
 BEGIN:VEVENT
 UID:267aaa08660a67f61e0d64c65cec4e45e58f7fc7@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T123000Z
 DTEND:20261101T134900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -428,7 +295,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:f8063b0c5622e7941c92536e6fec383f60d476ac@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T123000Z
 DTEND:20261101T135300Z
 SUMMARY:PAW Patrol: Der Dino Film
@@ -447,7 +314,7 @@ URL:https://www.kinoevent.ch/detail/120318/PAW%20Patrol%3A%20Der%20Dino%20F
 END:VEVENT
 BEGIN:VEVENT
 UID:ba4ab2a0c60279e50c4622698587022273a22a5b@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T143000Z
 DTEND:20261101T161900Z
 SUMMARY:Forgotten Island
@@ -465,7 +332,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:58e718c4bc7331f77ba7d3b13c9cbe00422d21e6@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T143000Z
 DTEND:20261101T161000Z
 SUMMARY:Emil und die Detektive
@@ -483,7 +350,7 @@ URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:f27dce482ea990eea6850d00ba64ad08a2b8f999@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T164500Z
 DTEND:20261101T185700Z
 SUMMARY:Sinn und Sinnlichkeit
@@ -502,7 +369,7 @@ URL:https://www.kinoevent.ch/detail/22965/Sinn%20und%20Sinnlichkeit
 END:VEVENT
 BEGIN:VEVENT
 UID:6039d3a4eb941bb1984f2d04a75633dec3c83b95@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T170000Z
 DTEND:20261101T184100Z
 SUMMARY:Eiserne Wildnis - Heart Of The Beast
@@ -522,7 +389,7 @@ URL:https://www.kinoevent.ch/detail/91291/Eiserne%20Wildnis%20-%20Heart%20O
 END:VEVENT
 BEGIN:VEVENT
 UID:08e6ccb60f41fc80d0846bb9d749c67f47eba75b@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T191500Z
 DTEND:20261101T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -541,7 +408,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:f140ea43e00342814ff47cebec69ab63bd681a49@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261101T191500Z
 DTEND:20261101T211200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -561,7 +428,7 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:2afc1da85a2e28a05e1f30f5dc80932dee8e87f5@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261102T191500Z
 DTEND:20261102T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -580,7 +447,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:95a0bb00067d7fbed01f10fcf317b83599600d9a@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261102T191500Z
 DTEND:20261102T205000Z
 SUMMARY:Frank & Louis
@@ -599,7 +466,7 @@ URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:d05859e48cdac298d749380d7f9568aae3ef5bf0@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261103T140000Z
 DTEND:20261103T160500Z
 SUMMARY:Der Perfekte Urlaub
@@ -618,7 +485,7 @@ URL:https://www.kinoevent.ch/detail/132500/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:e5bdf39dc1dedd52f5c09c3d2ad3f0250769d411@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261103T191500Z
 DTEND:20261103T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -637,7 +504,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:ee89a30337186b83180b2366b5b33e9490349534@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261103T191500Z
 DTEND:20261103T205000Z
 SUMMARY:Frank & Louis
@@ -656,7 +523,7 @@ URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:da8348920809f95ae77e4e5a74704bd716cad9c9@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T123000Z
 DTEND:20261104T134900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -675,7 +542,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:9a5b02f67b4337066de4490d49a0c5e72a3dc45b@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T123000Z
 DTEND:20261104T140000Z
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
@@ -694,7 +561,7 @@ URL:https://www.kinoevent.ch/detail/120454/Bibi%20Blocksberg%20-%20Die%20to
 END:VEVENT
 BEGIN:VEVENT
 UID:6651a956e43db5ddad10c26fe9e44f3e12d89a0b@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T143000Z
 DTEND:20261104T161900Z
 SUMMARY:Forgotten Island
@@ -712,7 +579,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:fa33a012025a2c4cbcf48cd239ce2f605f2c4a3b@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T143000Z
 DTEND:20261104T161000Z
 SUMMARY:Emil und die Detektive
@@ -730,7 +597,7 @@ URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:7e2bd83396e1b725cf0a9145b5b4b0a42c50e985@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T164500Z
 DTEND:20261104T185000Z
 SUMMARY:Der Perfekte Urlaub
@@ -749,7 +616,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:128f8e9c529cc22245c8e5b8fd8742b1c287dc16@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T170000Z
 DTEND:20261104T183500Z
 SUMMARY:Frank & Louis
@@ -768,7 +635,7 @@ URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:0645a21dbd27dd5f9b423098f5faee6ae955eed6@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T191500Z
 DTEND:20261104T210900Z
 SUMMARY:Rammstein: Live in Mexico City
@@ -787,7 +654,7 @@ URL:https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in%20Mexic
 END:VEVENT
 BEGIN:VEVENT
 UID:cd51df86b95c570bb7db5059408c55504278f9af@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261104T191500Z
 DTEND:20261104T211200Z
 SUMMARY:Verity - Dunkle Geheimnisse
@@ -807,7 +674,7 @@ URL:https://www.kinoevent.ch/detail/126252/Verity%20-%20Dunkle%20Geheimniss
 END:VEVENT
 BEGIN:VEVENT
 UID:d0ce0561890c80071795d92e86aad1715241a773@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261107T170000Z
 DTEND:20261107T185400Z
 SUMMARY:Rammstein: Live in Mexico City
@@ -826,7 +693,7 @@ URL:https://www.kinoevent.ch/detail/130987/Rammstein%3A%20Live%20in%20Mexic
 END:VEVENT
 BEGIN:VEVENT
 UID:22006ee3945987032effe53588cd89dd97a71e84@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261110T190000Z
 DTEND:20261110T223500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
@@ -846,7 +713,7 @@ URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:f63c798e9417e514e854a27bdb79d663251e515c@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261111T191500Z
 DTEND:20261111T214200Z
 SUMMARY:Midsommar [The Ones we Love]
@@ -866,7 +733,7 @@ CATEGORIES:The Ones we Love
 END:VEVENT
 BEGIN:VEVENT
 UID:eab5a46b84305e4c2204d8810ec05bb682b72cee@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261115T123000Z
 DTEND:20261115T143000Z
 SUMMARY:Dä Rägebogefisch
@@ -886,7 +753,7 @@ URL:https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
 END:VEVENT
 BEGIN:VEVENT
 UID:086194ca1e4406868a60ac5862aa1514d72c23eb@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261117T180000Z
 DTEND:20261117T195000Z
 SUMMARY:Alte Liebe
@@ -905,7 +772,7 @@ URL:https://www.kinoevent.ch/detail/127787/Alte%20Liebe
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc5862bca32941b6b2210dc593a8f88807ca61f@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261123T133000Z
 DTEND:20261123T164000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Manon
@@ -925,7 +792,7 @@ URL:https://www.kinoevent.ch/detail/90381/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:4cd908d038fb3f043d6e623845d60c9affffc185@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261201T183000Z
 DTEND:20261201T212000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -944,7 +811,7 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:f425ca2694fdea62b4c4bad342bd1b243efbcf55@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261206T163000Z
 DTEND:20261206T191500Z
 SUMMARY:Andre Rieu´s 2026 Christmas Concert: Let it Snow!
@@ -962,7 +829,7 @@ URL:https://www.kinoevent.ch/detail/128372/Andre%20Rieu%C2%B4s%202026%20Chr
 END:VEVENT
 BEGIN:VEVENT
 UID:8a87b4457fdb24436ead437cc002ec14bfb0981e@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261208T133000Z
 DTEND:20261208T170500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
@@ -982,7 +849,7 @@ URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:3512cb6588920749d62b167c2e93889ba509d84e@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261209T191500Z
 DTEND:20261209T203800Z
 SUMMARY:Ghost in the Shell [The Ones we Love]
@@ -1008,7 +875,7 @@ CATEGORIES:The Ones we Love
 END:VEVENT
 BEGIN:VEVENT
 UID:ab923ebfb56b18643a9af8b04676d31ecd5f4786@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261215T133000Z
 DTEND:20261215T162000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -1027,7 +894,7 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:703effe931c8a8ca3f6275e3524372359b00d675@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261215T230100Z
 DTEND:20261216T014600Z
 SUMMARY:Avengers: Doomsday
@@ -1045,7 +912,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:2eee1d4e4b1939c84ad38949d088d6156ad1f060@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261216T153000Z
 DTEND:20261216T181500Z
 SUMMARY:Avengers: Doomsday
@@ -1063,7 +930,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:07e36b4dd55ccc991429c6c3b548e3a878ef3572@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20261216T184500Z
 DTEND:20261216T213000Z
 SUMMARY:Avengers: Doomsday
@@ -1081,7 +948,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:bedd10db798779f0291ec9a898585934c7d9ef3f@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270203T164500Z
 DTEND:20270203T223500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Götterdämmerung
@@ -1101,7 +968,7 @@ URL:https://www.kinoevent.ch/detail/128867/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:24e9b0ec251e1e95864d1059b7f2066ffd5e4f16@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270223T184500Z
 DTEND:20270223T221500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -1121,7 +988,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:0ec56853aec713f9597a1cf85350e13e1d1a4b8c@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270323T183000Z
 DTEND:20270323T203000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -1141,7 +1008,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:ec593d140c6fb8d23a2a106778dc9c6611662109@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270330T123000Z
 DTEND:20270330T160000Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -1161,7 +1028,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cf5a5beba03b8d3a57ca0c36da3c50685057ae7b@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270413T123000Z
 DTEND:20270413T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -1181,7 +1048,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:766c83766210f5dfd4d579f2f5a90f2d3f7d806f@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270422T181500Z
 DTEND:20270422T201500Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -1201,7 +1068,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cca34b14f0063784519b4acb2041b8eba0a5c104@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270505T180000Z
 DTEND:20270505T211500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
@@ -1222,7 +1089,7 @@ URL:https://www.kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:8cdd94178792d1de73a51ece14bd7153effb7789@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270518T123000Z
 DTEND:20270518T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -1242,7 +1109,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:e5b1dd5287d995d45e06572fbcbf417ab5663029@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270525T173000Z
 DTEND:20270525T200000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Romeo und Julia
@@ -1262,7 +1129,7 @@ URL:https://www.kinoevent.ch/detail/126150/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:82891884f82a190f5060354b38a192937ff0ad4a@kino-ics
-DTSTAMP:20261028T050001Z
+DTSTAMP:20261029T050001Z
 DTSTART:20270608T123000Z
 DTEND:20270608T154500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
