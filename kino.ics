@@ -10,162 +10,8 @@ X-WR-TIMEZONE:Europe/Zurich
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:62f196be521748214445001eb99b6527910f2c09@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T123000Z
-DTEND:20261111T134900Z
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
- K 0 · 79 Min.\nJustin Fletcher\, John Sparkes und Nina Sosanya in einem F
- ilm von Steve Cox\, Matthew Walker\n\nShauns Halloween-Pläne geraten durc
- heinander\, als der Farmer das Kürbisbeet zerstört. Seine Rettungsversuc
- he lösen Chaos aus: Der Farmer verschwindet\, ein haariges Wesen taucht a
- uf.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=
- 70000000014ACVDDAK&page=seatingplan&language=de&FilmID=91320000012ACVDDAK&
- performance=83C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/
- 125190/Shaun%20das%20Schaf%20-%20Spuk%20im%20K%C3%BCrbisfeld
-URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
- 0im%20K%C3%BCrbisfeld
-END:VEVENT
-BEGIN:VEVENT
-UID:d3be3c63053829cc4de11d9102a53c01ae75d4b3@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T124500Z
-DTEND:20261111T140200Z
-SUMMARY:Der Frechste Troll der Welt
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 0 ·
-  77 Min.\nRasmus Botoft und Ava Knox Martin in einem Film von Jan Rahbek\n
- \nDer rebellische Troll Billy ignoriert das oberste Gesetz und erkundet mi
- t seiner Schwester Bonny die Menschenwelt. Dort entdecken sie einen Plan\,
-  der ihr unterirdisches Zuhause bedroht.\n\nTickets: https://iframe.ticket
- shop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seatingplan&l
- anguage=de&FilmID=C2320000012ACVDDAK&performance=84C70000023ACVDDAK\nFilmi
- nfo: https://www.kinoevent.ch/detail/127797/Der%20Frechste%20Troll%20der%2
- 0Welt
-URL:https://www.kinoevent.ch/detail/127797/Der%20Frechste%20Troll%20der%20W
- elt
-END:VEVENT
-BEGIN:VEVENT
-UID:16ea4157686744631cad596234e70541ad92c143@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T143000Z
-DTEND:20261111T161900Z
-SUMMARY:Forgotten Island
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
- K 6 (Bedrohung) · 109 Min.\nH.E.R.\, Liza Soberano und Dave Franco in ein
- em Film von Joel Crawford\, Januel P. Mercado\n\nVor ihrem Neuanfang erleb
- en Jo und Raissa eine magische Abschiedsnacht: Ein Portal führt sie auf d
- ie Insel Nakali\, wo sie mythische Wesen und die Manananggal treffen – u
- nd ihre Freundschaft auf die Probe stellen.\n\nTickets: https://iframe.tic
- ketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seatingpla
- n&language=de&FilmID=D0320000012ACVDDAK&performance=93C70000023ACVDDAK\nFi
- lminfo: https://www.kinoevent.ch/detail/125193/Forgotten%20Island
-URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
-END:VEVENT
-BEGIN:VEVENT
-UID:b6592f14498396963cddce75a21e3a15c86d331a@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T144500Z
-DTEND:20261111T161500Z
-SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 6 ·
-  90 Min.\nNala\, Carmen Diego und Carla Demmin in einem Film von Gregor Sc
- hnitzler\n\nBibis Museumspraktikum wird zum Abenteuer\, als eine wertvolle
-  Spieluhr verschwindet. Mit ihren Freunden reist sie in die Vergangenheit\
- , wo sie Fritzi und Maxim begegnen und Ungerechtigkeit erleben.\n\nTickets
- : https://iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014ACV
- DDAK&page=seatingplan&language=de&FilmID=71320000012ACVDDAK&performance=A4
- C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/120454/Bibi%20
- Blocksberg%20-%20Die%20total%20verhexte%20Zeitreise
-URL:https://www.kinoevent.ch/detail/120454/Bibi%20Blocksberg%20-%20Die%20to
- tal%20verhexte%20Zeitreise
-END:VEVENT
-BEGIN:VEVENT
-UID:f78de0d9ca619aab903f3a3c47ab82ab75278633@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T164500Z
-DTEND:20261111T183800Z
-SUMMARY:FROM INSIDE OUT – Die Architektur von Peter Zumthor
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
- K 10 (belastende Szenen) · 113 Min.\nPeter Zumthor und Wim Wenders in ein
- em Film von Wim Wenders\n\nWim Wenders begleitet Peter Zumthor: vom gemein
- samen Kurzfilm bis zu zwei großen Bauvorhaben – Fondation Beyeler in Ri
- ehen und das Los Angeles County Museum of Art.\n\nTickets: https://iframe.
- ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=seating
- plan&language=de&FilmID=B2320000012ACVDDAK&performance=A3C70000023ACVDDAK\
- nFilminfo: https://www.kinoevent.ch/detail/120457/FROM%20INSIDE%20OUT%20%E
- 2%80%93%20Die%20Architektur%20von%20Peter%20Zumthor
-URL:https://www.kinoevent.ch/detail/120457/FROM%20INSIDE%20OUT%20%E2%80%93%
- 20Die%20Architektur%20von%20Peter%20Zumthor
-END:VEVENT
-BEGIN:VEVENT
-UID:daa4a587000dbe1dbd1a1bbd68b142e4abf2ee32@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T170000Z
-DTEND:20261111T183500Z
-SUMMARY:Frank & Louis
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
- rsion: Sa 7. 11. + So 8. 11.: Deutsch gesprochen\nMo 9.11\, Di 10.11 Mi 12
- .11.: Englisch gesprochen/deutsche und franz. Untertitel\nFSK 12 (Gewalt\,
-  belastende Themen) · 95 Min.\nKingsley Ben-Adir\, Rob Morgan und Rene Pe
- rez in einem Film von Petra Biondina Volpe\n\nFrank sitzt lebenslänglich 
- im Gefängnis. Als Pfleger für demenzkranke Insassen trifft er auf Louis 
- und entwickelt eine tiefe Freundschaft\, die ihm zeigt\, wie er ein besser
- er Mensch werden kann.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/
- landingpage?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=
- 92320000012ACVDDAK&performance=B4C70000023ACVDDAK\nFilminfo: https://www.k
- inoevent.ch/detail/131399/Frank%20%26%20Louis
-URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
-END:VEVENT
-BEGIN:VEVENT
-UID:f63c798e9417e514e854a27bdb79d663251e515c@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T191500Z
-DTEND:20261111T214200Z
-SUMMARY:Midsommar [The Ones we Love]
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:⭐ Besonderheit: Teil der Filmreihe «The Ones we Love»\nOrt:
-  Kinobar Leuzinger\nSprache/Version: Englisch gesprochen - deutsche Untert
- itel\nFSK 16 · 147 Min.\nFlorence Pugh\, Jack Reynor\, Will Poulter\, Reg
- ie: Ari Aster\n\nDani reist zur Zeit der langen Sommernächte mit ihrem Fr
- eund nach Schweden\, um den Tod ihrer Eltern zu verarbeiten. Langsam schli
- eßt die junge Frau Bekanntschaften in dem Dorf\, wo sie untergekommen ist
- .\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=70
- 000000014ACVDDAK&page=seatingplan&language=de&FilmID=02320000012ACVDDAK&pe
- rformance=DAB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/77
- 101/Midsommar
-URL:https://www.kinoevent.ch/detail/77101/Midsommar
-CATEGORIES:The Ones we Love
-END:VEVENT
-BEGIN:VEVENT
-UID:180911fa27b45a5c30f224ed167b20d98391fec9@kino-ics
-DTSTAMP:20261111T050001Z
-DTSTART:20261111T191500Z
-DTEND:20261111T210000Z
-SUMMARY:A Talent for Murder
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nSprache/Version: Englisch gesprochen - deutsc
- he und franz. Untertitel\nFSK 12 (Gewalt\, Diskriminierung\, Sexualität) 
- · 105 Min.\nHelen Mirren\, Alden Ehrenreich und Olivia Cooke in einem Fil
- m von Anton Corbijn\n\nIn 1995\, the aging queen of the thriller Patricia 
- Highsmith has retreated to her chalet in the Swiss Alps. When young litera
- ry agent Edward Ridgeway appears at her door\, he attempts to persuade her
-  to come out of retirement and write one final installment of her beloved 
- Ripley series.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingp
- age?center=80000000014ACVDDAK&page=seatingplan&language=de&FilmID=D2320000
- 012ACVDDAK&performance=D4C70000023ACVDDAK\nFilminfo: https://www.kinoevent
- .ch/detail/130024/A%20Talent%20for%20Murder
-URL:https://www.kinoevent.ch/detail/130024/A%20Talent%20for%20Murder
-END:VEVENT
-BEGIN:VEVENT
 UID:cc332fc64ba5b7d5c0321258abac1fade9a5bfb3@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261112T191500Z
 DTEND:20261112T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -184,7 +30,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:a08452b735c2df2445b89e6cbcc2e3a38cff1c76@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261112T191500Z
 DTEND:20261112T211200Z
 SUMMARY:Wild Horse Nine
@@ -202,7 +48,7 @@ URL:https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:87e6cf513ec995e8e5169254db467c9364a2c4c9@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261113T164500Z
 DTEND:20261113T183800Z
 SUMMARY:FROM INSIDE OUT – Die Architektur von Peter Zumthor
@@ -221,7 +67,7 @@ URL:https://www.kinoevent.ch/detail/120457/FROM%20INSIDE%20OUT%20%E2%80%93%
 END:VEVENT
 BEGIN:VEVENT
 UID:950979778018ec93f35bf62ca8de96c8ba259b67@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261113T191500Z
 DTEND:20261113T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -240,7 +86,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:ebeb638add3d12fb3ea15c55005beb97635c7ce5@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261113T191500Z
 DTEND:20261113T211200Z
 SUMMARY:Wild Horse Nine
@@ -258,7 +104,7 @@ URL:https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:f5d48ee8593111ebdb444428347317dbf167aaa9@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T100000Z
 DTEND:20261114T112300Z
 SUMMARY:PAW Patrol: Der Dino Film
@@ -277,7 +123,7 @@ URL:https://www.kinoevent.ch/detail/120318/PAW%20Patrol%3A%20Der%20Dino%20F
 END:VEVENT
 BEGIN:VEVENT
 UID:d96a7154686a61416be3140d492bfcdb7152085e@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T123000Z
 DTEND:20261114T134900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -296,7 +142,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:9be1b887e67117f6bd9f81bf0c9d6601e30d6bea@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T124500Z
 DTEND:20261114T140200Z
 SUMMARY:Der Frechste Troll der Welt
@@ -315,7 +161,7 @@ URL:https://www.kinoevent.ch/detail/127797/Der%20Frechste%20Troll%20der%20W
 END:VEVENT
 BEGIN:VEVENT
 UID:20b904b11363a80a52e7d12a264429919198072e@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T143000Z
 DTEND:20261114T161900Z
 SUMMARY:Forgotten Island
@@ -333,7 +179,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:89293f4c910575fa70f83334b642d60b702f6f8e@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T144500Z
 DTEND:20261114T162500Z
 SUMMARY:Emil und die Detektive
@@ -351,7 +197,7 @@ URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:69ada9afca17618d508daeebe9c2dfbf93bfbb38@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T164500Z
 DTEND:20261114T183800Z
 SUMMARY:George Michael: The Faith Tour
@@ -370,7 +216,7 @@ URL:https://www.kinoevent.ch/detail/103745/George%20Michael%3A%20The%20Fait
 END:VEVENT
 BEGIN:VEVENT
 UID:c32c46e7f9e51398244de8f1f14ed34ca629a574@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T170000Z
 DTEND:20261114T183500Z
 SUMMARY:Frank & Louis
@@ -390,7 +236,7 @@ URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:89f5cb5c938399dc73ef94b480c7b1ecf2b159fb@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T191500Z
 DTEND:20261114T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -409,7 +255,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:c35046bb98ba0a75a74b2bba0cc2f689914bcc92@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261114T191500Z
 DTEND:20261114T211200Z
 SUMMARY:Wild Horse Nine
@@ -427,7 +273,7 @@ URL:https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:848a52457430c36bcd4d1d62df3e4e95905e05b6@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T100000Z
 DTEND:20261115T115300Z
 SUMMARY:FROM INSIDE OUT – Die Architektur von Peter Zumthor
@@ -446,7 +292,7 @@ URL:https://www.kinoevent.ch/detail/120457/FROM%20INSIDE%20OUT%20%E2%80%93%
 END:VEVENT
 BEGIN:VEVENT
 UID:eab5a46b84305e4c2204d8810ec05bb682b72cee@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T123000Z
 DTEND:20261115T143000Z
 SUMMARY:Dä Rägebogefisch
@@ -466,7 +312,7 @@ URL:https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
 END:VEVENT
 BEGIN:VEVENT
 UID:eea1fc31895d32d7c381e4ac1fbe47def1dfcff8@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T124500Z
 DTEND:20261115T140200Z
 SUMMARY:Der Frechste Troll der Welt
@@ -485,7 +331,7 @@ URL:https://www.kinoevent.ch/detail/127797/Der%20Frechste%20Troll%20der%20W
 END:VEVENT
 BEGIN:VEVENT
 UID:ff57bdbdea7484519e2ac151c1ace0f4e86f0e12@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T143000Z
 DTEND:20261115T154900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -504,7 +350,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:3468e9e628c4467872c1cf5983a07d9e30fe7390@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T144500Z
 DTEND:20261115T162500Z
 SUMMARY:Emil und die Detektive
@@ -522,7 +368,7 @@ URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:9ca0046eeb07d7d1aa450cf1cc591ee9fe2ca90a@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T164500Z
 DTEND:20261115T183800Z
 SUMMARY:George Michael: The Faith Tour
@@ -541,7 +387,7 @@ URL:https://www.kinoevent.ch/detail/103745/George%20Michael%3A%20The%20Fait
 END:VEVENT
 BEGIN:VEVENT
 UID:dc11394324d4b38dafe2c79d599bb7f5c19a6468@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T170000Z
 DTEND:20261115T183500Z
 SUMMARY:Frank & Louis
@@ -561,7 +407,7 @@ URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:867f5ed8fde297504defe07347bd1c4a36aa7b1d@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T191500Z
 DTEND:20261115T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -580,7 +426,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:f09cb05d898f0384ab31f9b684d5d71bfeb54af2@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261115T191500Z
 DTEND:20261115T211200Z
 SUMMARY:Wild Horse Nine
@@ -598,7 +444,7 @@ URL:https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:82e9a77de987b3920cffca856afe59c6760d5b11@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261116T170000Z
 DTEND:20261116T184100Z
 SUMMARY:Lügen über meine Mutter
@@ -618,7 +464,7 @@ URL:https://www.kinoevent.ch/detail/128277/L%C3%BCgen%20%C3%BCber%20meine%2
 END:VEVENT
 BEGIN:VEVENT
 UID:6035755b642bdfc24690c9e70c8627103eabcd29@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261116T191500Z
 DTEND:20261116T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -637,7 +483,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:30b2b1d1d3f692302d5185d40eda58d9b3d273a3@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261116T191500Z
 DTEND:20261116T211200Z
 SUMMARY:Wild Horse Nine
@@ -655,7 +501,7 @@ URL:https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:086194ca1e4406868a60ac5862aa1514d72c23eb@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261117T180000Z
 DTEND:20261117T195000Z
 SUMMARY:Alte Liebe
@@ -674,7 +520,7 @@ URL:https://www.kinoevent.ch/detail/127787/Alte%20Liebe
 END:VEVENT
 BEGIN:VEVENT
 UID:af0f31b4fb863e3072c55b451a3a680ad6c8c685@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261117T191500Z
 DTEND:20261117T205600Z
 SUMMARY:Lügen über meine Mutter
@@ -694,7 +540,7 @@ URL:https://www.kinoevent.ch/detail/128277/L%C3%BCgen%20%C3%BCber%20meine%2
 END:VEVENT
 BEGIN:VEVENT
 UID:d7065baea2381359227307dea86be61219b72fea@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261118T123000Z
 DTEND:20261118T134900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -713,7 +559,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:b6d45a962d6eb29c5828f8479428bf703414fd3b@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261118T141500Z
 DTEND:20261118T160400Z
 SUMMARY:Forgotten Island
@@ -731,7 +577,7 @@ URL:https://www.kinoevent.ch/detail/125193/Forgotten%20Island
 END:VEVENT
 BEGIN:VEVENT
 UID:fcd8289b86410057c33738acdaa16e46f32ec519@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261118T150000Z
 DTEND:20261118T161700Z
 SUMMARY:Der Frechste Troll der Welt
@@ -750,7 +596,7 @@ URL:https://www.kinoevent.ch/detail/127797/Der%20Frechste%20Troll%20der%20W
 END:VEVENT
 BEGIN:VEVENT
 UID:9f4af6173a4008a237f0641bcaa6ab62f348fcdd@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261118T163000Z
 DTEND:20261118T182300Z
 SUMMARY:FROM INSIDE OUT – Die Architektur von Peter Zumthor
@@ -769,7 +615,7 @@ URL:https://www.kinoevent.ch/detail/120457/FROM%20INSIDE%20OUT%20%E2%80%93%
 END:VEVENT
 BEGIN:VEVENT
 UID:3e3aac67d9dbc3df9b9c707bc3a52939780515c0@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261118T170000Z
 DTEND:20261118T183500Z
 SUMMARY:Frank & Louis
@@ -789,7 +635,7 @@ URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:0ce84be827788ea2abb459ec17625892ad955ea8@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261118T190000Z
 DTEND:20261118T213800Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -809,7 +655,7 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
 END:VEVENT
 BEGIN:VEVENT
 UID:9aa0485f00199323518b1ee0600bf55341d6075e@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261118T191500Z
 DTEND:20261118T211200Z
 SUMMARY:Wild Horse Nine
@@ -828,7 +674,7 @@ URL:https://www.kinoevent.ch/detail/129265/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:70d8117a7286e0da0e997d07b3bc2052b9f4f4f9@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261122T100000Z
 DTEND:20261122T113200Z
 SUMMARY:Bodä Ärdä Lustig
@@ -847,7 +693,7 @@ URL:https://www.kinoevent.ch/detail/131366/Bod%C3%A4%20%C3%84rd%C3%A4%20Lus
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc5862bca32941b6b2210dc593a8f88807ca61f@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261123T133000Z
 DTEND:20261123T164000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Manon
@@ -867,7 +713,7 @@ URL:https://www.kinoevent.ch/detail/90381/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:b009ff3f1412794e4e562319e130a9f31ff562cb@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261125T184500Z
 DTEND:20261125T203300Z
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes u
@@ -889,7 +735,7 @@ URL:https://www.kinoevent.ch/detail/132760/Lieblingsmenschen%20-%20Die%20au
 END:VEVENT
 BEGIN:VEVENT
 UID:7d87d2c399da916c6a595d39e1a961ba19221df1@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261129T100000Z
 DTEND:20261129T113200Z
 SUMMARY:Bodä Ärdä Lustig
@@ -908,7 +754,7 @@ URL:https://www.kinoevent.ch/detail/131366/Bod%C3%A4%20%C3%84rd%C3%A4%20Lus
 END:VEVENT
 BEGIN:VEVENT
 UID:0d404b581e4d03439a17b0275ce98e590d59b2cb@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261201T140000Z
 DTEND:20261201T154800Z
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes u
@@ -930,7 +776,7 @@ URL:https://www.kinoevent.ch/detail/132761/Lieblingsmenschen%20-%20Die%20au
 END:VEVENT
 BEGIN:VEVENT
 UID:4cd908d038fb3f043d6e623845d60c9affffc185@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261201T183000Z
 DTEND:20261201T212000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -949,7 +795,7 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:f425ca2694fdea62b4c4bad342bd1b243efbcf55@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261206T163000Z
 DTEND:20261206T191500Z
 SUMMARY:Andre Rieu´s 2026 Christmas Concert: Let it Snow!
@@ -967,7 +813,7 @@ URL:https://www.kinoevent.ch/detail/128372/Andre%20Rieu%C2%B4s%202026%20Chr
 END:VEVENT
 BEGIN:VEVENT
 UID:8a87b4457fdb24436ead437cc002ec14bfb0981e@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261208T133000Z
 DTEND:20261208T170500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
@@ -987,7 +833,7 @@ URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:3512cb6588920749d62b167c2e93889ba509d84e@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261209T191500Z
 DTEND:20261209T203800Z
 SUMMARY:Ghost in the Shell [The Ones we Love]
@@ -1013,7 +859,7 @@ CATEGORIES:The Ones we Love
 END:VEVENT
 BEGIN:VEVENT
 UID:ab923ebfb56b18643a9af8b04676d31ecd5f4786@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261215T133000Z
 DTEND:20261215T162000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -1032,7 +878,7 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:703effe931c8a8ca3f6275e3524372359b00d675@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261215T230100Z
 DTEND:20261216T014600Z
 SUMMARY:Avengers: Doomsday
@@ -1050,7 +896,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:2eee1d4e4b1939c84ad38949d088d6156ad1f060@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261216T153000Z
 DTEND:20261216T181500Z
 SUMMARY:Avengers: Doomsday
@@ -1068,7 +914,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:07e36b4dd55ccc991429c6c3b548e3a878ef3572@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261216T184500Z
 DTEND:20261216T213000Z
 SUMMARY:Avengers: Doomsday
@@ -1086,7 +932,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:bedd10db798779f0291ec9a898585934c7d9ef3f@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270203T164500Z
 DTEND:20270203T223500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Götterdämmerung
@@ -1106,7 +952,7 @@ URL:https://www.kinoevent.ch/detail/128867/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:24e9b0ec251e1e95864d1059b7f2066ffd5e4f16@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270223T184500Z
 DTEND:20270223T221500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -1126,7 +972,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:0ec56853aec713f9597a1cf85350e13e1d1a4b8c@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270323T183000Z
 DTEND:20270323T203000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -1146,7 +992,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:ec593d140c6fb8d23a2a106778dc9c6611662109@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270330T123000Z
 DTEND:20270330T160000Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -1166,7 +1012,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cf5a5beba03b8d3a57ca0c36da3c50685057ae7b@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270413T123000Z
 DTEND:20270413T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -1186,7 +1032,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:766c83766210f5dfd4d579f2f5a90f2d3f7d806f@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270422T181500Z
 DTEND:20270422T201500Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -1206,7 +1052,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cca34b14f0063784519b4acb2041b8eba0a5c104@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270505T180000Z
 DTEND:20270505T211500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
@@ -1227,7 +1073,7 @@ URL:https://www.kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:8cdd94178792d1de73a51ece14bd7153effb7789@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270518T123000Z
 DTEND:20270518T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -1247,7 +1093,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:e5b1dd5287d995d45e06572fbcbf417ab5663029@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270525T173000Z
 DTEND:20270525T200000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Romeo und Julia
@@ -1267,7 +1113,7 @@ URL:https://www.kinoevent.ch/detail/126150/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:82891884f82a190f5060354b38a192937ff0ad4a@kino-ics
-DTSTAMP:20261111T050001Z
+DTSTAMP:20261112T050001Z
 DTSTART:20270608T123000Z
 DTEND:20270608T154500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca

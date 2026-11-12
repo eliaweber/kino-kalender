@@ -9,28 +9,8 @@ X-WR-TIMEZONE:Europe/Zurich
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f63c798e9417e514e854a27bdb79d663251e515c@kino-ics
-DTSTAMP:20261027T194455Z
-DTSTART:20261111T191500Z
-DTEND:20261111T214200Z
-SUMMARY:Midsommar [The Ones we Love]
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:⭐ Besonderheit: Teil der Filmreihe «The Ones we Love»\nOrt:
-  Kinobar Leuzinger\nSprache/Version: Englisch gesprochen - deutsche Untert
- itel\nFSK 16 · 147 Min.\nFlorence Pugh\, Jack Reynor\, Will Poulter\, Reg
- ie: Ari Aster\n\nDani reist zur Zeit der langen Sommernächte mit ihrem Fr
- eund nach Schweden\, um den Tod ihrer Eltern zu verarbeiten. Langsam schli
- eßt die junge Frau Bekanntschaften in dem Dorf\, wo sie untergekommen ist
- .\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=70
- 000000014ACVDDAK&page=seatingplan&language=de&FilmID=02320000012ACVDDAK&pe
- rformance=DAB70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/77
- 101/Midsommar
-URL:https://www.kinoevent.ch/detail/77101/Midsommar
-CATEGORIES:The Ones we Love
-END:VEVENT
-BEGIN:VEVENT
 UID:3512cb6588920749d62b167c2e93889ba509d84e@kino-ics
-DTSTAMP:20261027T194455Z
+DTSTAMP:20261112T050001Z
 DTSTART:20261209T191500Z
 DTEND:20261209T203800Z
 SUMMARY:Ghost in the Shell [The Ones we Love]
