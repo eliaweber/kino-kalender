@@ -10,65 +10,8 @@ X-WR-TIMEZONE:Europe/Zurich
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:37a0d83be13401d1b8e3e54109a2e16138ddd070@kino-ics
-DTSTAMP:20261120T050001Z
-DTSTART:20261120T170000Z
-DTEND:20261120T190000Z
-SUMMARY:Dä Rägebogefisch
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Dialekt gesprochen\n\n
- Als liebevolle Adaption durch die Augsburger Puppenkiste\, produziert vom 
- Team von Heidi\, Di chli Häx und De Räuber Hotzenplotz und mit den Stimm
- en von Max Hubacher und Luna Wedler\, erstrahlt der weltweit bekannte Kind
- erbuch-Klassiker des Berner Autors und Illustrators Marcus Pfister erstmal
- s auf der grossen Leinwand. Einzigartig\, zeitgemäss interpretiert - und 
- auf Schweizerdeutsch!\n\nTickets: https://iframe.ticketshop.kinoevent.ch/l
- andingpage?center=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=2
- 2320000012ACVDDAK&performance=97C70000023ACVDDAK\nFilminfo: https://www.ki
- noevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
-URL:https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
-END:VEVENT
-BEGIN:VEVENT
-UID:858a6e0371d6a92a964c6bb65abb498dee120aec@kino-ics
-DTSTAMP:20261120T050001Z
-DTSTART:20261120T190000Z
-DTEND:20261120T213900Z
-SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
-LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Deutsch gesprochen\nFS
- K 12 (Gewalt\, Bedrohung) · 159 Min.\nJoseph Zada\, Whitney Peak und Mcke
- nna Grace in einem Film von Francis Lawrence\n\n24 Jahre vor Katniss wird 
- Haymitch Abernathy aus Distrikt 12 für die 50. Hungerspiele ausgewählt u
- nd muss seine Familie und seine große Liebe zurücklassen. Im Kapitol erk
- ennt er die Macht\, die hinter den Spielen steckt.\n\nTickets: https://ifr
- ame.ticketshop.kinoevent.ch/landingpage?center=70000000014ACVDDAK&page=sea
- tingplan&language=de&FilmID=F2320000012ACVDDAK&performance=A7C70000023ACVD
- DAK\nFilminfo: https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%
- 20Panem%20-%20Sunrise%20on%20the%20Reaping
-URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
- 20Sunrise%20on%20the%20Reaping
-END:VEVENT
-BEGIN:VEVENT
-UID:adbb47306753103154410db2e4609fecb59d872a@kino-ics
-DTSTAMP:20261120T050001Z
-DTSTART:20261120T191500Z
-DTEND:20261120T211200Z
-SUMMARY:Wild Horse Nine
-LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
-DESCRIPTION:Ort: Schlosskino\nSprache/Version: Deutsch gesprochen\nFSK 12 (
- Gewalt\, Bedrohung) · 117 Min.\nSam Rockwell\, John Malkovich und Steve B
- uscemi in einem Film von Martin McDonagh\n\nKurz vor dem Militärputsch in
-  Chile 1973 werden die CIA-Agenten Chris und Lee auf eine abgelegene Oster
- insel versetzt. Fernab der Unruhen geraten sie in eine Verschwörung\, wä
- hrend ihre gemeinsame Vergangenheit und…\n\nTickets: https://iframe.tick
- etshop.kinoevent.ch/landingpage?center=80000000014ACVDDAK&page=seatingplan
- &language=de&FilmID=13320000012ACVDDAK&performance=88C70000023ACVDDAK\nFil
- minfo: https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
-URL:https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
-END:VEVENT
-BEGIN:VEVENT
 UID:63d6f3a15287edeeb4e91aa07991b676d2f68d9d@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261121T124500Z
 DTEND:20261121T144500Z
 SUMMARY:Dä Rägebogefisch
@@ -87,7 +30,7 @@ URL:https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
 END:VEVENT
 BEGIN:VEVENT
 UID:5424b1eb5143a5996ea119dc9f9c4d9aa00281c4@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261121T143000Z
 DTEND:20261121T154900Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -106,7 +49,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:5bb14eda6e8aa349eff9808c7a8bf89a9f5e6331@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261121T160000Z
 DTEND:20261121T183900Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -126,7 +69,7 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
 END:VEVENT
 BEGIN:VEVENT
 UID:fbc67d2f64c56b6796746225db642db1a229f050@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261121T164500Z
 DTEND:20261121T183800Z
 SUMMARY:FROM INSIDE OUT – Die Architektur von Peter Zumthor
@@ -145,7 +88,7 @@ URL:https://www.kinoevent.ch/detail/120457/FROM%20INSIDE%20OUT%20%E2%80%93%
 END:VEVENT
 BEGIN:VEVENT
 UID:3b28748a3ee37249d307451805f18757b5905baf@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261121T191500Z
 DTEND:20261121T215400Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -165,7 +108,7 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
 END:VEVENT
 BEGIN:VEVENT
 UID:99dbeb95bc0ab9ea295e125f82eaae39407854c2@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261121T191500Z
 DTEND:20261121T212000Z
 SUMMARY:Der Perfekte Urlaub
@@ -184,7 +127,7 @@ URL:https://www.kinoevent.ch/detail/125202/Der%20Perfekte%20Urlaub
 END:VEVENT
 BEGIN:VEVENT
 UID:70d8117a7286e0da0e997d07b3bc2052b9f4f4f9@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T100000Z
 DTEND:20261122T113200Z
 SUMMARY:Bodä Ärdä Lustig
@@ -203,7 +146,7 @@ URL:https://www.kinoevent.ch/detail/131366/Bod%C3%A4%20%C3%84rd%C3%A4%20Lus
 END:VEVENT
 BEGIN:VEVENT
 UID:3b489174803e357b4a4adef52c89b3b7ad71f7ef@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T123000Z
 DTEND:20261122T143000Z
 SUMMARY:Dä Rägebogefisch
@@ -222,7 +165,7 @@ URL:https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
 END:VEVENT
 BEGIN:VEVENT
 UID:584afe3bd274d6e30f807af522687662953c00c4@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T124500Z
 DTEND:20261122T140200Z
 SUMMARY:Der Frechste Troll der Welt
@@ -241,7 +184,7 @@ URL:https://www.kinoevent.ch/detail/127797/Der%20Frechste%20Troll%20der%20W
 END:VEVENT
 BEGIN:VEVENT
 UID:28c4df1108ee5d39f015f1f8eb389487204632ba@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T141500Z
 DTEND:20261122T153400Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -260,7 +203,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:97071246aa81b9501e43a5b9498ca9c5cc15a232@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T144500Z
 DTEND:20261122T162500Z
 SUMMARY:Emil und die Detektive
@@ -278,7 +221,7 @@ URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:dfff783e2517017a2815750c8a93d07ea0d0e74e@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T160000Z
 DTEND:20261122T183900Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -298,27 +241,26 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
 END:VEVENT
 BEGIN:VEVENT
 UID:f9013c4a2830609eca0e1ab1d5c5fcc06df8be0e@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T170000Z
 DTEND:20261122T183500Z
 SUMMARY:Frank & Louis
 LOCATION:Schlosskino\, Fischmarktstrasse 4\, 8640 Rapperswil SG
 DESCRIPTION:Filmreihe: Schlosskino Sélection\nOrt: Schlosskino\nSprache/Ve
- rsion: Mi 18.11: Englisch gesprochen/deutsche und franz. Untertitel\nSo 22
- . 11.: Deutsch gesprochen.\nFSK 12 (Gewalt\, belastende Themen) · 95 Min.
- \nKingsley Ben-Adir\, Rob Morgan und Rene Perez in einem Film von Petra Bi
- ondina Volpe\n\nFrank sitzt lebenslänglich im Gefängnis. Als Pfleger fü
- r demenzkranke Insassen trifft er auf Louis und entwickelt eine tiefe Freu
- ndschaft\, die ihm zeigt\, wie er ein besserer Mensch werden kann.\n\nTick
- ets: https://iframe.ticketshop.kinoevent.ch/landingpage?center=80000000014
- ACVDDAK&page=seatingplan&language=de&FilmID=92320000012ACVDDAK&performance
- =F8C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail/131399/Fran
- k%20%26%20Louis
+ rsion: So 22. 11.: Deutsch gesprochen.\nFSK 12 (Gewalt\, belastende Themen
+ ) · 95 Min.\nKingsley Ben-Adir\, Rob Morgan und Rene Perez in einem Film 
+ von Petra Biondina Volpe\n\nFrank sitzt lebenslänglich im Gefängnis. Als
+  Pfleger für demenzkranke Insassen trifft er auf Louis und entwickelt ein
+ e tiefe Freundschaft\, die ihm zeigt\, wie er ein besserer Mensch werden k
+ ann.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?center
+ =80000000014ACVDDAK&page=seatingplan&language=de&FilmID=92320000012ACVDDAK
+ &performance=F8C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/detail
+ /131399/Frank%20%26%20Louis
 URL:https://www.kinoevent.ch/detail/131399/Frank%20%26%20Louis
 END:VEVENT
 BEGIN:VEVENT
 UID:92ffbfb3cb795dce0b2193800e91f1b17361417f@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T191500Z
 DTEND:20261122T215400Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -338,7 +280,7 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
 END:VEVENT
 BEGIN:VEVENT
 UID:29a8171bf0b1e51d0b1b5f566594849abf336836@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261122T191500Z
 DTEND:20261122T211200Z
 SUMMARY:Wild Horse Nine
@@ -356,7 +298,7 @@ URL:https://www.kinoevent.ch/detail/53750/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc5862bca32941b6b2210dc593a8f88807ca61f@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261123T133000Z
 DTEND:20261123T164000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Manon
@@ -376,7 +318,7 @@ URL:https://www.kinoevent.ch/detail/90381/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:c8af697ea8c158fa97444058b446c0086cbd7418@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261123T190000Z
 DTEND:20261123T213900Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -396,7 +338,7 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
 END:VEVENT
 BEGIN:VEVENT
 UID:70c270a1faa0c7311add1a95abd25080132ca396@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261123T191500Z
 DTEND:20261123T211200Z
 SUMMARY:Wild Horse Nine
@@ -415,7 +357,7 @@ URL:https://www.kinoevent.ch/detail/129265/Wild%20Horse%20Nine
 END:VEVENT
 BEGIN:VEVENT
 UID:64b77ff706516a80daaf65c341e2bfa84a117e81@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261124T190000Z
 DTEND:20261124T213900Z
 SUMMARY:The Hunger Games: Sunrise on the Reaping
@@ -434,7 +376,7 @@ URL:https://www.kinoevent.ch/detail/125216/The%20Hunger%20Games%3A%20Sunris
 END:VEVENT
 BEGIN:VEVENT
 UID:aabfef00d77fe29a9a318f03eff3ea3ab8acfca3@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261124T191500Z
 DTEND:20261124T210800Z
 SUMMARY:FROM INSIDE OUT – Die Architektur von Peter Zumthor
@@ -453,7 +395,7 @@ URL:https://www.kinoevent.ch/detail/120457/FROM%20INSIDE%20OUT%20%E2%80%93%
 END:VEVENT
 BEGIN:VEVENT
 UID:b44bc82a06c1885bbfcaa2cfc135e29d982a20e1@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261125T123000Z
 DTEND:20261125T143000Z
 SUMMARY:Dä Rägebogefisch
@@ -472,7 +414,7 @@ URL:https://www.kinoevent.ch/detail/131450/D%C3%A4%20R%C3%A4gebogefisch
 END:VEVENT
 BEGIN:VEVENT
 UID:329bff35a994e138308b54a85f96b354e376d598@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261125T123000Z
 DTEND:20261125T134700Z
 SUMMARY:Der Frechste Troll der Welt
@@ -491,7 +433,7 @@ URL:https://www.kinoevent.ch/detail/127797/Der%20Frechste%20Troll%20der%20W
 END:VEVENT
 BEGIN:VEVENT
 UID:c3bb07ea28be3a92ac6f935795f9e81a111d040f@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261125T141500Z
 DTEND:20261125T153400Z
 SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
@@ -510,7 +452,7 @@ URL:https://www.kinoevent.ch/detail/125190/Shaun%20das%20Schaf%20-%20Spuk%2
 END:VEVENT
 BEGIN:VEVENT
 UID:985c262f4410d1968dafba8c595bf07ce4a02732@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261125T141500Z
 DTEND:20261125T155500Z
 SUMMARY:Emil und die Detektive
@@ -528,7 +470,7 @@ URL:https://www.kinoevent.ch/detail/127964/Emil%20und%20die%20Detektive
 END:VEVENT
 BEGIN:VEVENT
 UID:e402d1a2d363bd4de94e49b235ca2cff4017a8f6@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261125T161500Z
 DTEND:20261125T185400Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -548,7 +490,7 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
 END:VEVENT
 BEGIN:VEVENT
 UID:b009ff3f1412794e4e562319e130a9f31ff562cb@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261125T184500Z
 DTEND:20261125T203300Z
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes u
@@ -570,7 +512,7 @@ URL:https://www.kinoevent.ch/detail/132760/Lieblingsmenschen%20-%20Die%20au
 END:VEVENT
 BEGIN:VEVENT
 UID:77965b3346f003a583f1b6040ffc022f754540e8@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261125T191500Z
 DTEND:20261125T215400Z
 SUMMARY:Die Tribute von Panem - Sunrise on the Reaping
@@ -589,8 +531,26 @@ URL:https://www.kinoevent.ch/detail/125215/Die%20Tribute%20von%20Panem%20-%
  20Sunrise%20on%20the%20Reaping
 END:VEVENT
 BEGIN:VEVENT
+UID:61e102d9009249d4c160e28c11fcbdd29cc40978@kino-ics
+DTSTAMP:20261121T050001Z
+DTSTART:20261128T170000Z
+DTEND:20261128T185200Z
+SUMMARY:Sakrifica
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Originalversion Albani
+ sch / deutsche Untertitel\nFSK 16 · 112 Min.\n\nKosovo\, 1997-1999. In ei
+ nem vom Krieg erschütterten Land stehen fünf Brüder vor der schwersten 
+ Entscheidung ihres Lebens: bei ihrer Mutter und ihrer Familie zu bleiben o
+ der an die Front zu ziehen\, um für die Freiheit ihres Heimatlandes zu k
+ ämpfen.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?ce
+ nter=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=33320000012ACV
+ DDAK&performance=79C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/de
+ tail/133030/Sakrifica
+URL:https://www.kinoevent.ch/detail/133030/Sakrifica
+END:VEVENT
+BEGIN:VEVENT
 UID:7d87d2c399da916c6a595d39e1a961ba19221df1@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261129T100000Z
 DTEND:20261129T113200Z
 SUMMARY:Bodä Ärdä Lustig
@@ -608,8 +568,26 @@ URL:https://www.kinoevent.ch/detail/131366/Bod%C3%A4%20%C3%84rd%C3%A4%20Lus
  tig
 END:VEVENT
 BEGIN:VEVENT
+UID:66e9e7366d050bab0d69323084a08ed6a5c23d14@kino-ics
+DTSTAMP:20261121T050001Z
+DTSTART:20261129T170000Z
+DTEND:20261129T185200Z
+SUMMARY:Sakrifica
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Originalversion Albani
+ sch / deutsche Untertitel\nFSK 16 · 112 Min.\n\nKosovo\, 1997-1999. In ei
+ nem vom Krieg erschütterten Land stehen fünf Brüder vor der schwersten 
+ Entscheidung ihres Lebens: bei ihrer Mutter und ihrer Familie zu bleiben o
+ der an die Front zu ziehen\, um für die Freiheit ihres Heimatlandes zu k
+ ämpfen.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?ce
+ nter=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=33320000012ACV
+ DDAK&performance=89C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/de
+ tail/133030/Sakrifica
+URL:https://www.kinoevent.ch/detail/133030/Sakrifica
+END:VEVENT
+BEGIN:VEVENT
 UID:0d404b581e4d03439a17b0275ce98e590d59b2cb@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261201T140000Z
 DTEND:20261201T154800Z
 SUMMARY:Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes u
@@ -631,7 +609,7 @@ URL:https://www.kinoevent.ch/detail/132761/Lieblingsmenschen%20-%20Die%20au
 END:VEVENT
 BEGIN:VEVENT
 UID:4cd908d038fb3f043d6e623845d60c9affffc185@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261201T183000Z
 DTEND:20261201T212000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -649,8 +627,26 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
  oyal%20Ballet%20Der%20Nussknacker
 END:VEVENT
 BEGIN:VEVENT
+UID:0704ba707a26baf4b2e9ef1d010a870465c1536f@kino-ics
+DTSTAMP:20261121T050001Z
+DTSTART:20261202T191500Z
+DTEND:20261202T210700Z
+SUMMARY:Sakrifica
+LOCATION:Kinobar Leuzinger\, Obere Bahnhofstrasse 46\, 8640 Rapperswil SG
+DESCRIPTION:Ort: Kinobar Leuzinger\nSprache/Version: Originalversion Albani
+ sch / deutsche Untertitel\nFSK 16 · 112 Min.\n\nKosovo\, 1997-1999. In ei
+ nem vom Krieg erschütterten Land stehen fünf Brüder vor der schwersten 
+ Entscheidung ihres Lebens: bei ihrer Mutter und ihrer Familie zu bleiben o
+ der an die Front zu ziehen\, um für die Freiheit ihres Heimatlandes zu k
+ ämpfen.\n\nTickets: https://iframe.ticketshop.kinoevent.ch/landingpage?ce
+ nter=70000000014ACVDDAK&page=seatingplan&language=de&FilmID=33320000012ACV
+ DDAK&performance=99C70000023ACVDDAK\nFilminfo: https://www.kinoevent.ch/de
+ tail/133030/Sakrifica
+URL:https://www.kinoevent.ch/detail/133030/Sakrifica
+END:VEVENT
+BEGIN:VEVENT
 UID:f425ca2694fdea62b4c4bad342bd1b243efbcf55@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261206T163000Z
 DTEND:20261206T191500Z
 SUMMARY:Andre Rieu´s 2026 Christmas Concert: Let it Snow!
@@ -669,7 +665,7 @@ URL:https://www.kinoevent.ch/detail/128372/Andre%20Rieu%C2%B4s%202026%20Chr
 END:VEVENT
 BEGIN:VEVENT
 UID:8a87b4457fdb24436ead437cc002ec14bfb0981e@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261208T133000Z
 DTEND:20261208T170500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Carmen
@@ -689,7 +685,7 @@ URL:https://www.kinoevent.ch/detail/32722/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:3512cb6588920749d62b167c2e93889ba509d84e@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261209T191500Z
 DTEND:20261209T203800Z
 SUMMARY:Ghost in the Shell [The Ones we Love]
@@ -715,7 +711,7 @@ CATEGORIES:The Ones we Love
 END:VEVENT
 BEGIN:VEVENT
 UID:ab923ebfb56b18643a9af8b04676d31ecd5f4786@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261215T133000Z
 DTEND:20261215T162000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Der Nussknacker
@@ -734,7 +730,7 @@ URL:https://www.kinoevent.ch/detail/93864/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:703effe931c8a8ca3f6275e3524372359b00d675@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261215T230100Z
 DTEND:20261216T014600Z
 SUMMARY:Avengers: Doomsday
@@ -752,7 +748,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:2eee1d4e4b1939c84ad38949d088d6156ad1f060@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261216T153000Z
 DTEND:20261216T181500Z
 SUMMARY:Avengers: Doomsday
@@ -770,7 +766,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:07e36b4dd55ccc991429c6c3b548e3a878ef3572@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20261216T184500Z
 DTEND:20261216T213000Z
 SUMMARY:Avengers: Doomsday
@@ -788,7 +784,7 @@ URL:https://www.kinoevent.ch/detail/102551/Avengers%3A%20Doomsday
 END:VEVENT
 BEGIN:VEVENT
 UID:bedd10db798779f0291ec9a898585934c7d9ef3f@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270203T164500Z
 DTEND:20270203T223500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Götterdämmerung
@@ -808,7 +804,7 @@ URL:https://www.kinoevent.ch/detail/128867/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:24e9b0ec251e1e95864d1059b7f2066ffd5e4f16@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270223T184500Z
 DTEND:20270223T221500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -828,7 +824,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:0ec56853aec713f9597a1cf85350e13e1d1a4b8c@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270323T183000Z
 DTEND:20270323T203000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -848,7 +844,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:ec593d140c6fb8d23a2a106778dc9c6611662109@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270330T123000Z
 DTEND:20270330T160000Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Cosi fan tutte
@@ -868,7 +864,7 @@ URL:https://www.kinoevent.ch/detail/128868/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cf5a5beba03b8d3a57ca0c36da3c50685057ae7b@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270413T123000Z
 DTEND:20270413T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Alice im Wunderland
@@ -888,7 +884,7 @@ URL:https://www.kinoevent.ch/detail/129048/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:766c83766210f5dfd4d579f2f5a90f2d3f7d806f@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270422T181500Z
 DTEND:20270422T201500Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -908,7 +904,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:cca34b14f0063784519b4acb2041b8eba0a5c104@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270505T180000Z
 DTEND:20270505T211500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
@@ -929,7 +925,7 @@ URL:https://www.kinoevent.ch/detail/93865/RBO%20Live%202026-27%3A%20The%20R
 END:VEVENT
 BEGIN:VEVENT
 UID:8cdd94178792d1de73a51ece14bd7153effb7789@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270518T123000Z
 DTEND:20270518T143000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Schwanensee
@@ -949,7 +945,7 @@ URL:https://www.kinoevent.ch/detail/129049/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:e5b1dd5287d995d45e06572fbcbf417ab5663029@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270525T173000Z
 DTEND:20270525T200000Z
 SUMMARY:RBO Live 2026-27: The Royal Ballet Romeo und Julia
@@ -969,7 +965,7 @@ URL:https://www.kinoevent.ch/detail/126150/RBO%20Live%202026-27%3A%20The%20
 END:VEVENT
 BEGIN:VEVENT
 UID:82891884f82a190f5060354b38a192937ff0ad4a@kino-ics
-DTSTAMP:20261120T050001Z
+DTSTAMP:20261121T050001Z
 DTSTART:20270608T123000Z
 DTEND:20270608T154500Z
 SUMMARY:RBO Live 2026-27: The Royal Opera Tosca
